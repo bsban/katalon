@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2__2 test 240305</name>
+   <tag></tag>
+   <elementGuidId>380c0f6d-3e2c-40aa-8edc-92ef80253a1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='WAP-EMPL-0030-SubTopTitle']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#WAP-EMPL-0030-SubTopTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;[아던트_계열사2] [test] 채용공고등록테스트240305&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>1f2415f6-026c-45ad-b114-0dfe12cff176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>contents-header--title</value>
+      <webElementGuid>990272b3-9e50-4fa8-97a6-5b233baec6f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>WAP-EMPL-0030-SubTopTitle</value>
+      <webElementGuid>49bb97c0-f4dd-4686-9527-2ff22a9e92a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[아던트_계열사2] [test] 채용공고등록테스트240305</value>
+      <webElementGuid>484e97cd-cbe7-412c-b2dd-839d14d30cb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;WAP-EMPL-0030-SubTopTitle&quot;)</value>
+      <webElementGuid>2cba1798-0dce-4ff4-9a4b-0dfac350e0f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='WAP-EMPL-0030-SubTopTitle']</value>
+      <webElementGuid>cd5244a9-0c3c-4eb2-a9c7-a302710f17eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='축소/확대 버튼'])[1]/following::h2[1]</value>
+      <webElementGuid>89051b0d-174e-46ad-8c2a-3845ced4a198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='팝업테스트전용화면'])[1]/following::h2[1]</value>
+      <webElementGuid>f78d28d3-5c70-4192-89d0-9ae99d5ef43f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='선택하세요'])[1]/preceding::h2[1]</value>
+      <webElementGuid>f9cd3c29-ab8e-46d0-a5c9-67b0df6ebac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='선택하세요'])[2]/preceding::h2[1]</value>
+      <webElementGuid>8f0cee7a-f071-4116-b991-9caf919a7779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[아던트_계열사2] [test] 채용공고등록테스트240305']/parent::*</value>
+      <webElementGuid>e8d88cdf-e30e-40ba-8d76-7c4982737d7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>0f670046-5f0d-4458-b554-bd2e3458c013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'WAP-EMPL-0030-SubTopTitle' and (text() = '[아던트_계열사2] [test] 채용공고등록테스트240305' or . = '[아던트_계열사2] [test] 채용공고등록테스트240305')]</value>
+      <webElementGuid>e06ec451-fc08-453d-ae3f-0c0eac8dd470</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

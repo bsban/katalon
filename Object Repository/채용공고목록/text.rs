@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text</name>
+   <tag></tag>
+   <elementGuidId>1a214018-878e-47fd-94cc-d1edf2e48fc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='resultList']/div/div/p/strong[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;[test] 채용공고등록테스트240305 (~2024.03.05)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>e6a8b52f-da0c-4518-a9e9-f0ad73d9ef65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>8889b331-b201-4dfd-ba62-891614446705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[test] 채용공고등록테스트240305 (~2024.03.05)</value>
+      <webElementGuid>0e6ee686-7e60-4d0c-bea8-18137c0219b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultList&quot;)/div[@class=&quot;box-type2 employ-progress__box&quot;]/div[@class=&quot;employ-progress__header&quot;]/p[@class=&quot;employ-progress__title&quot;]/strong[@class=&quot;title&quot;]</value>
+      <webElementGuid>c38dff49-954e-44d2-a414-941155065e7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='resultList']/div/div/p/strong[2]</value>
+      <webElementGuid>efa976a8-d816-4e3b-8e54-59dc9339015b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='종료'])[2]/following::strong[1]</value>
+      <webElementGuid>ae01e36b-fe49-4e6a-b4e3-841d687366d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='전체 채용'])[1]/following::strong[2]</value>
+      <webElementGuid>17aa8e7c-dfb0-4dd6-b9ef-fff41477cb4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='자세히보기'])[1]/preceding::strong[1]</value>
+      <webElementGuid>addb0928-4a76-4ba3-85d5-5c10a211de72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='지원자수'])[1]/preceding::strong[1]</value>
+      <webElementGuid>e9fe1122-2fc3-4317-893a-ccaa70f2d5fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[test] 채용공고등록테스트240305 (~2024.03.05)']/parent::*</value>
+      <webElementGuid>1a69f0e8-a80d-4220-a0ed-260b63e2ef68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong[2]</value>
+      <webElementGuid>d25d1aff-d6b0-419f-a73a-3716df0f0b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = '[test] 채용공고등록테스트240305 (~2024.03.05)' or . = '[test] 채용공고등록테스트240305 (~2024.03.05)')]</value>
+      <webElementGuid>a4cb99be-c966-41e4-8257-6d65febae543</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
