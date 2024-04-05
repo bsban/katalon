@@ -16,6 +16,24 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.annotation.Keyword
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import org.openqa.selenium.WebDriver
+import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.WebDriver
+import org.openqa.selenium.interactions.Actions
+import org.openqa.selenium.support.ui.ExpectedConditions as EC
+import org.openqa.selenium.WebElement
+import org.openqa.selenium.JavascriptExecutor
+
+@Keyword
+def clickUsingJS(TestObject to, int timeout)
+{
+	WebDriver driver = DriverFactory.getWebDriver()
+	WebElement element = WebUICommonHelper.findWebElement(to, timeout)
+	JavascriptExecutor executor = (driver as  JavascriptExecutor)
+	executor.executeScript('arguments[0].click()',element)
+}
 
 WebUI.callTestCase(findTestCase('기업담당자/TC001-기업담당자로그인'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -33,7 +51,8 @@ WebUI.setText(findTestObject('Object Repository/Page_- WISE SELECTION/input__dep
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_- WISE SELECTION/input__departmentName'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Page_- WISE SELECTION/button_'))
+clickUsingJS(findTestObject('Page_- WISE SELECTION/button_'),10)
+//WebUI.click(findTestObject('Page_- WISE SELECTION/button_'))
 
 WebUI.click(findTestObject('Object Repository/Page_- WISE SELECTION/button__1'))
 
