@@ -3,22 +3,22 @@
    <description></description>
    <name>button__1_2_3</name>
    <tag></tag>
-   <elementGuidId>93888e1f-ff36-4673-a61d-520ce0530987</elementGuidId>
+   <elementGuidId>f3a9737b-cd95-4fda-8c0a-eab4dc30a6aa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#WAP-EMPL-0013-Close</value>
+         <value>#WAP-EMPL-0013-Save</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='WAP-EMPL-0013-Close']</value>
+         <value>//button[@id='WAP-EMPL-0013-Save']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;닫기&quot;i]</value>
+         <value>#WAP-EMPL-0013-Save</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,86 +29,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0656523f-2b82-4e7f-91b8-b7d6e70c05eb</webElementGuid>
+      <webElementGuid>0d42988a-837f-427b-aa75-79b5261b6552</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn-close</value>
-      <webElementGuid>fd25af35-622d-400e-a7c2-4e0cb3d8d3c9</webElementGuid>
+      <value>base-btn type2__size-m</value>
+      <webElementGuid>b871cfc7-f260-45c4-8a94-0e75e8d120d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>WAP-EMPL-0013-Close</value>
-      <webElementGuid>535f8411-2fde-4a53-bf7c-3774f595fb49</webElementGuid>
+      <value>WAP-EMPL-0013-Save</value>
+      <webElementGuid>2969dfbf-e44f-4ac2-b5b4-d05e889cdbd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>WAP_EMPL_0013.hide()</value>
-      <webElementGuid>6c9d0600-3911-42fe-96a7-2eabe1949651</webElementGuid>
+      <value>WAP_EMPL_0013_FnSave(1125,0)</value>
+      <webElementGuid>6ca5f42f-5d81-448d-b66a-98d7e659cfbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>닫기</value>
-      <webElementGuid>e9ae9d3e-592c-4277-8ffa-694c275d9e63</webElementGuid>
+      <value>저장</value>
+      <webElementGuid>4584de6a-782f-4433-a000-dbaf5758737b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;WAP-EMPL-0013-Close&quot;)</value>
-      <webElementGuid>74417c12-4958-4663-a9e3-e01e3bc7b7bd</webElementGuid>
+      <value>id(&quot;WAP-EMPL-0013-Save&quot;)</value>
+      <webElementGuid>5fe677f8-edff-4e06-93ca-b9221e211c1e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='WAP-EMPL-0013-Close']</value>
-      <webElementGuid>069251ee-3635-4ce1-a2de-d06843286450</webElementGuid>
+      <value>//button[@id='WAP-EMPL-0013-Save']</value>
+      <webElementGuid>51d0f73b-b1db-4553-99e5-154e10998287</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='저장'])[3]/following::button[1]</value>
-      <webElementGuid>d14b5431-0228-456a-80ca-dc84344a0cf5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='전체삭제'])[1]/following::button[1]</value>
+      <webElementGuid>ee43c443-d0ec-461c-9026-1a222eec5008</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer 영역입니다.'])[1]/preceding::button[1]</value>
-      <webElementGuid>b9fef7fd-cba5-4da9-91f5-f7fd995697c0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='닫기'])[4]/preceding::button[1]</value>
+      <webElementGuid>145ae2a1-01a8-4b1b-9df3-d3afb13a2b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer 영역입니다.'])[1]/preceding::button[2]</value>
+      <webElementGuid>e5536694-ff7d-48de-b007-acb59be331f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/div/section/button</value>
-      <webElementGuid>b0f3c9b3-9d89-451f-a008-5b60841d090d</webElementGuid>
+      <value>//div[5]/div/section/div[3]/button</value>
+      <webElementGuid>361dd6cd-9226-4623-bf4d-7575410e7b6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'WAP-EMPL-0013-Close' and (text() = '닫기' or . = '닫기')]</value>
-      <webElementGuid>5b8ff752-8f8f-4f2b-87b4-0fc3de57564e</webElementGuid>
+      <value>//button[@id = 'WAP-EMPL-0013-Save' and (text() = '저장' or . = '저장')]</value>
+      <webElementGuid>2ec10bd3-cb52-428f-aca4-dba97d346445</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

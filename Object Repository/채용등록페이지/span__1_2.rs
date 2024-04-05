@@ -3,22 +3,22 @@
    <description></description>
    <name>span__1_2</name>
    <tag></tag>
-   <elementGuidId>1c10c9fe-487f-43ce-a7b2-d53b989f8a91</elementGuidId>
+   <elementGuidId>618e25f5-0f86-494f-95f2-eef2a130d177</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>span.base-icon.icon-add__color1__size-s</value>
+         <value>#WAP-EMPL-0010-RecruitTab > label.input-chk.type2 > span</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='WAP-EMPL-0010-ScrnAddDocument']/span</value>
+         <value>//div[@id='WAP-EMPL-0010-RecruitTab']/label/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;서류전형&quot;i]</value>
+         <value>#WAP-EMPL-0010-RecruitTab >> internal:text=&quot;전체&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>32dada2d-4ffe-4144-b998-0d056a3a6bd7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>base-icon icon-add__color1__size-s</value>
-      <webElementGuid>f427d29c-a438-416e-a763-11fc2d23516e</webElementGuid>
+      <webElementGuid>ce8f075f-4afe-4ee0-ad6a-4676a85ad636</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>서류전형</value>
-      <webElementGuid>fce090cc-b66f-4705-9f36-efa04271aefd</webElementGuid>
+      <value>전체</value>
+      <webElementGuid>cbc31ccf-aab6-4b3a-9398-73e00ed866c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;WAP-EMPL-0010-ScrnAddDocument&quot;)/span[@class=&quot;base-icon icon-add__color1__size-s&quot;]</value>
-      <webElementGuid>d4afd459-8dc9-4e3d-bfae-a16f047d00cd</webElementGuid>
+      <value>id(&quot;WAP-EMPL-0010-RecruitTab&quot;)/label[@class=&quot;input-chk type2&quot;]/span[1]</value>
+      <webElementGuid>27775d6c-e218-4396-8db1-053c4f52f667</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='WAP-EMPL-0010-ScrnAddDocument']/span</value>
-      <webElementGuid>e59fb074-451f-4f5c-bc31-41eef9b176a7</webElementGuid>
+      <value>//div[@id='WAP-EMPL-0010-RecruitTab']/label/span</value>
+      <webElementGuid>4ce41377-a7bb-4e83-8592-d7a827805726</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='전형 추가'])[1]/following::span[1]</value>
-      <webElementGuid>5b798915-d700-49c5-a8f8-206eb28d07d7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='채용공고 탭'])[1]/following::span[1]</value>
+      <webElementGuid>926b1952-633a-498d-8f6b-d80e33ddf4c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='전형설계'])[2]/following::span[1]</value>
-      <webElementGuid>9877f7db-970c-4bde-9d9b-bed7eee6b45d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='채용 홈페이지'])[1]/following::span[1]</value>
+      <webElementGuid>b5a8949e-6542-41e7-b6dd-0d10d0347a41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='필기전형'])[1]/preceding::span[1]</value>
-      <webElementGuid>bfad9b24-2bac-40ad-bc0d-69123a8182c9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='신입'])[1]/preceding::span[1]</value>
+      <webElementGuid>26d46109-d1ad-4e80-b611-41f7ac34b6dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='면접전형'])[1]/preceding::span[2]</value>
-      <webElementGuid>e525aa63-ef90-457a-96f5-6c989b957a56</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='서류전형']/parent::*</value>
-      <webElementGuid>87b5e97e-67d4-4143-9596-a5207de421ce</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='경력'])[1]/preceding::span[2]</value>
+      <webElementGuid>58bfc011-93f7-45b0-aa9e-7a44411588c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/button/span</value>
-      <webElementGuid>30dff39c-06b9-4e72-97bb-71f62c454b6e</webElementGuid>
+      <value>//section[3]/div[2]/div/div[2]/div/label/span</value>
+      <webElementGuid>0d57580c-b936-43ce-8fc5-26b92c3984c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = '서류전형' or . = '서류전형')]</value>
-      <webElementGuid>578aac99-86b2-4054-9336-9726fe27580a</webElementGuid>
+      <value>//span[(text() = '전체' or . = '전체')]</value>
+      <webElementGuid>8b1cd462-0f71-454b-8d67-a4cd25a6d481</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>input__calendar1_1</name>
    <tag></tag>
-   <elementGuidId>9e709ca2-1e4d-4676-bf2a-7bc388c3f588</elementGuidId>
+   <elementGuidId>3f23d574-8d9d-4e7a-867a-1bb4594a70b6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b6d1a1dd-cb0c-4f20-8fab-f5659163fe6d</webElementGuid>
+      <webElementGuid>78de92e2-bebe-4e08-89e8-1172ed9219c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ef497e48-4119-4968-9646-e5ec27cefbe6</webElementGuid>
+      <webElementGuid>2507652a-5507-4c75-a5bc-917ca61701e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-txt datepicker-input</value>
-      <webElementGuid>ff8ee97c-2188-4aad-9e0c-7c3430f2bafa</webElementGuid>
+      <webElementGuid>b3bf95dc-c23c-4051-87af-42bf0196d040</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>calendar1_1</value>
-      <webElementGuid>2585310f-ce27-4792-9938-5e4269eb78e7</webElementGuid>
+      <webElementGuid>6c5c7119-0877-416f-a1b9-0883801a587e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>일자 선택</value>
-      <webElementGuid>5537c5aa-d85b-4be1-b6a0-77b579a8ad66</webElementGuid>
+      <webElementGuid>19c6864e-c2df-4a38-823b-36402c3e8fda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>b0cdca5d-c684-4f4e-a33e-19e16f1eb15e</webElementGuid>
+      <webElementGuid>7a9b80b5-0afe-44a1-a12a-c49676c63a88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;calendar1_1&quot;)</value>
-      <webElementGuid>15a169a0-295e-49d4-8af7-9af064d00ffa</webElementGuid>
+      <webElementGuid>e7549319-a20e-4ece-81b8-c292e32e0d26</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='calendar1_1']</value>
-      <webElementGuid>6f1790a3-d5d7-4dc2-943a-1aaea966919b</webElementGuid>
+      <webElementGuid>dbe8c922-b73a-4a60-9fa4-ed55266c90b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div/div/input</value>
-      <webElementGuid>bf797490-82e3-49f2-853b-b0e904033c5e</webElementGuid>
+      <webElementGuid>b16b089e-debd-4d78-96e5-57a18cfe4b31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'calendar1_1' and @placeholder = '일자 선택']</value>
-      <webElementGuid>3341d99a-df77-48ac-b0d4-02787ea03ec2</webElementGuid>
+      <webElementGuid>7d57228a-dcc7-43f3-b377-4f03f7c1d20c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

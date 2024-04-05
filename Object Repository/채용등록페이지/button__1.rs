@@ -3,22 +3,22 @@
    <description></description>
    <name>button__1</name>
    <tag></tag>
-   <elementGuidId>140c1337-e5e0-4b59-80be-01ec2acc27fb</elementGuidId>
+   <elementGuidId>69da0509-1b85-49d5-958a-2538d05bec48</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.datepicker.datepicker-dropdown.active.datepicker-orient-left.datepicker-orient-bottom > div.datepicker-picker > div.datepicker-header > div.datepicker-controls > button.button.next-button.next-btn</value>
+         <value>#WAP-EMPL-0010-ScrnAddInterview</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[34]</value>
+         <value>//button[@id='WAP-EMPL-0010-ScrnAddInterview']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;»&quot;i]</value>
+         <value>internal:role=button[name=&quot;면접전형&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,108 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>23e8d07b-c3d3-41d6-9c78-ca65323d8b1c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>0e23de61-e26d-4d9a-aa10-3e2f92681da2</webElementGuid>
+      <webElementGuid>75ffd2e9-8723-4086-9798-285f7a170cde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>button next-button next-btn</value>
-      <webElementGuid>52662a44-96bc-4e00-888d-7490c2cf877a</webElementGuid>
+      <value>base-btn type2__size-s</value>
+      <webElementGuid>adacb8bb-3a8b-478c-a614-0ab6107444e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>WAP-EMPL-0010-ScrnAddInterview</value>
+      <webElementGuid>7cb885bb-1a4a-4967-a6f3-fe9936e9cbe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>addSelection('interview')</value>
+      <webElementGuid>311728f9-a4a3-4c43-8605-9bf6e21d6d74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>»</value>
-      <webElementGuid>da58288c-d451-4df6-b1a6-6b9338d6eddc</webElementGuid>
+      <value>
+							면접전형
+						</value>
+      <webElementGuid>65521f76-1db9-4cf8-95ab-2aacd491ae3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;contents&quot;]/section[@class=&quot;form-set__box&quot;]/div[@class=&quot;box-type1&quot;]/div[@class=&quot;form-row__flex type3&quot;]/div[@class=&quot;form-td&quot;]/div[@class=&quot;form-inner type-gap3&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;form-cell&quot;]/div[@class=&quot;input-box type-calendar&quot;]/div[@class=&quot;datepicker datepicker-dropdown active datepicker-orient-left datepicker-orient-bottom&quot;]/div[@class=&quot;datepicker-picker&quot;]/div[@class=&quot;datepicker-header&quot;]/div[@class=&quot;datepicker-controls&quot;]/button[@class=&quot;button next-button next-btn&quot;]</value>
-      <webElementGuid>ba47321e-8324-4ae6-8dce-557d698d5fe3</webElementGuid>
+      <value>id(&quot;WAP-EMPL-0010-ScrnAddInterview&quot;)</value>
+      <webElementGuid>b45c621f-317c-4aab-a2e4-a7147e2312a6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[34]</value>
-      <webElementGuid>e951c6d1-0ac1-422e-84f8-b923e37c2318</webElementGuid>
+      <value>//button[@id='WAP-EMPL-0010-ScrnAddInterview']</value>
+      <webElementGuid>9789898e-ba13-4511-aeca-0e76dcb3b77a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addSelection']/div/div[2]/div/button[3]</value>
+      <webElementGuid>06889744-6871-4b34-8a09-8e8625ddbc1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[2]/following::button[2]</value>
-      <webElementGuid>dc7df6b7-aec5-4223-84ec-1040a4a5a905</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='필기전형'])[1]/following::button[1]</value>
+      <webElementGuid>b2d5c7dd-c080-4e49-b304-cede0c0262c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='~'])[1]/following::button[3]</value>
-      <webElementGuid>691d1822-536b-46a8-a25d-fdff17fa948f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서류전형'])[1]/following::button[2]</value>
+      <webElementGuid>6bedce75-d352-4449-976d-647527cf4809</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='일'])[2]/preceding::button[1]</value>
-      <webElementGuid>bcb5e035-5157-4068-97a9-58f9c3f346e5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='월'])[2]/preceding::button[1]</value>
-      <webElementGuid>c1c02602-98e3-4c4f-af84-4829358314de</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서류전형'])[2]/preceding::button[1]</value>
+      <webElementGuid>d3e05948-5099-4c7b-80e3-f98cdd30b78a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div/div/div/div[2]/button[3]</value>
-      <webElementGuid>3d3b44f9-fee2-4877-95a9-403321627828</webElementGuid>
+      <value>//div[2]/div/button[3]</value>
+      <webElementGuid>65e9d3e6-7fa0-4c6f-b6a3-c9386903ab9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = '»' or . = '»')]</value>
-      <webElementGuid>74fc3b77-3df1-4405-949b-dab7768565a7</webElementGuid>
+      <value>//button[@id = 'WAP-EMPL-0010-ScrnAddInterview' and (text() = '
+							면접전형
+						' or . = '
+							면접전형
+						')]</value>
+      <webElementGuid>e06f6ca3-e8fe-482d-a39f-15f08fc8e045</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>input__WAP-EMPL-0010-RecruitNoticNm</name>
    <tag></tag>
-   <elementGuidId>bfc9254d-8fd9-4288-9210-9c0fce38b734</elementGuidId>
+   <elementGuidId>cadb655e-f218-4a2b-8308-8bb992ba4726</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6d37b14f-1190-49f8-8b1b-ff5d0b8992f7</webElementGuid>
+      <webElementGuid>7b6e8ce7-53a2-40dc-a938-8bc2f544c730</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>224aa473-a375-46ac-80b4-42d9bdc0b21d</webElementGuid>
+      <webElementGuid>d527e9ca-0086-42b6-830d-96546c8b3d82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-txt</value>
-      <webElementGuid>cb3e012b-55a0-44db-a42a-fddd52d8c008</webElementGuid>
+      <webElementGuid>03ce1fc8-ce79-4011-b706-bc497763cb9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>WAP-EMPL-0010-RecruitNoticNm</value>
-      <webElementGuid>84480836-ec03-4cfa-a179-ab89d453e520</webElementGuid>
+      <webElementGuid>5396c608-5b93-4faa-9449-6afc26cad00f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>oninput</name>
       <type>Main</type>
       <value>inputValueChk()</value>
-      <webElementGuid>7250a3bc-cc1b-4c01-b542-43bc09b4ffcb</webElementGuid>
+      <webElementGuid>68ba9a29-1aa7-4569-bed6-ac5d39278597</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>채용명을 입력해주세요.</value>
-      <webElementGuid>221c2049-240a-4286-ba74-bdd71c823de4</webElementGuid>
+      <webElementGuid>0aea87ab-aab9-4c3f-a2a9-18722fc7cb58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;WAP-EMPL-0010-RecruitNoticNm&quot;)</value>
-      <webElementGuid>4999a8d8-9b01-4b7e-9b26-d3a47bede819</webElementGuid>
+      <webElementGuid>59339099-be8f-4028-812a-b4ec77a4a209</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='WAP-EMPL-0010-RecruitNoticNm']</value>
-      <webElementGuid>92db6cc9-da70-42d2-bb36-5b5146abe0c3</webElementGuid>
+      <webElementGuid>9173e5b3-798c-4ba9-8575-6f31c9f33309</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/input</value>
-      <webElementGuid>64455cd2-b303-480e-b268-9cad24f95e9b</webElementGuid>
+      <webElementGuid>19409df3-cab1-4bcb-a8ed-20ca1e876fa6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'WAP-EMPL-0010-RecruitNoticNm' and @placeholder = '채용명을 입력해주세요.']</value>
-      <webElementGuid>110aa9a7-3552-49e7-95e9-5df844945cd1</webElementGuid>
+      <webElementGuid>39b3d04e-c89d-4663-b329-830f51b4dfc0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,22 +3,22 @@
    <description></description>
    <name>button_</name>
    <tag></tag>
-   <elementGuidId>574585cb-ded5-4c09-a6aa-7254f4057fa8</elementGuidId>
+   <elementGuidId>97fcf0d5-f9fe-4162-bc94-fe43b9470286</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#departmentNameAddBtn</value>
+         <value>#WAP-EMPL-0010-ScrnAddDocument</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='departmentNameAddBtn']</value>
+         <value>//button[@id='WAP-EMPL-0010-ScrnAddDocument']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;추가&quot;i]</value>
+         <value>internal:role=button[name=&quot;서류전형&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,118 +29,108 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b338889d-e9d2-4ca9-8575-6ec49072b953</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>f48b7640-8d63-48a0-918a-e49da28cdf5b</webElementGuid>
+      <webElementGuid>a0afd5c0-83cc-442d-9d89-415207d491b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn-add</value>
-      <webElementGuid>c9d28bba-ce67-4a96-bbbe-697707b578c8</webElementGuid>
+      <value>base-btn type2__size-s</value>
+      <webElementGuid>bd4312f7-67cd-4778-9f75-21d12b49383b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>departmentNameAddBtn</value>
-      <webElementGuid>d95da93f-f6b3-4006-8b8a-f8b2092275dc</webElementGuid>
+      <value>WAP-EMPL-0010-ScrnAddDocument</value>
+      <webElementGuid>1a987d69-e19b-4517-80c9-63f78c174f66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>addField()</value>
-      <webElementGuid>bb9f12fb-f738-486a-8abb-e71e86c88f29</webElementGuid>
+      <value>addSelection('document')</value>
+      <webElementGuid>f5131011-8593-4d78-bfdb-efb8b08c5081</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>추가</value>
-      <webElementGuid>a23d5e8d-c058-4509-9d0f-6abc53d1fa25</webElementGuid>
+      <value>
+							서류전형
+						</value>
+      <webElementGuid>d0070a02-c831-431f-b46b-23922d6cf117</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;departmentNameAddBtn&quot;)</value>
-      <webElementGuid>39723b38-af94-444d-a44a-f68bd3608170</webElementGuid>
+      <value>id(&quot;WAP-EMPL-0010-ScrnAddDocument&quot;)</value>
+      <webElementGuid>93908d81-6ae6-41cc-86f8-4f5a446a219a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='departmentNameAddBtn']</value>
-      <webElementGuid>377e5a09-07db-4c29-9474-84fb7226e031</webElementGuid>
+      <value>//button[@id='WAP-EMPL-0010-ScrnAddDocument']</value>
+      <webElementGuid>427da2f8-33e3-4c6c-91c2-ac1f4794e43f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addSelection']/div/div[2]/div/button</value>
+      <webElementGuid>f8ebb422-d20d-4053-8855-2e1e2a9346ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='입력 삭제'])[8]/following::button[1]</value>
-      <webElementGuid>da95653b-ece0-445d-8cef-bcfa35ce3162</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='전형 추가'])[1]/following::button[1]</value>
+      <webElementGuid>6dd4b3d0-1b96-4ef4-bf7f-ee766e1f00bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='채용분야'])[1]/following::button[2]</value>
-      <webElementGuid>f1a8974e-3e65-426f-ade5-5cbee9ef5243</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='전형설계'])[2]/following::button[1]</value>
+      <webElementGuid>9e2fe809-9d25-40c6-a86e-bac22632597c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='일반직'])[1]/preceding::button[1]</value>
-      <webElementGuid>9cbf385c-5c1a-4867-b598-1e795108497a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='채용분야 중복지원'])[1]/preceding::button[2]</value>
-      <webElementGuid>7c3809df-5ba9-4471-8302-18101c68a051</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='추가']/parent::*</value>
-      <webElementGuid>7899fa48-fcc1-4a0b-a366-adcd3b7daa48</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='필기전형'])[1]/preceding::button[1]</value>
+      <webElementGuid>9e244eeb-5370-43ae-ad7b-29c9f0544501</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/button[2]</value>
-      <webElementGuid>fe393f79-7cdc-4d1a-ba50-1631868a4df2</webElementGuid>
+      <value>//section[2]/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>d84bb348-71cf-414a-b2d3-0d82e903b46c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'departmentNameAddBtn' and (text() = '추가' or . = '추가')]</value>
-      <webElementGuid>1e485ad1-f145-4410-abc1-12307ae35fce</webElementGuid>
+      <value>//button[@id = 'WAP-EMPL-0010-ScrnAddDocument' and (text() = '
+							서류전형
+						' or . = '
+							서류전형
+						')]</value>
+      <webElementGuid>94a1971d-617e-4e54-8c13-2cd99db9b7d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

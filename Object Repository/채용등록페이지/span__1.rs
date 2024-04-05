@@ -3,7 +3,7 @@
    <description></description>
    <name>span__1</name>
    <tag></tag>
-   <elementGuidId>1cde267b-9871-4fef-ba77-92516ed54f5f</elementGuidId>
+   <elementGuidId>caeb4aaa-4f0b-4029-af96-802594bb3519</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8020292e-7f1d-413d-a379-4a4f4b11d5f9</webElementGuid>
+      <webElementGuid>65fc3660-4c9d-4440-aa7e-0b11f6ee304b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>허용안함</value>
-      <webElementGuid>e7b7d395-6899-472f-bd37-08d8167fb6e3</webElementGuid>
+      <webElementGuid>cb55c14b-d460-489f-97ea-946af5795d1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;contents&quot;]/section[@class=&quot;form-set__box&quot;]/div[@class=&quot;box-type1&quot;]/div[@class=&quot;form-row__flex&quot;]/div[@class=&quot;form-td&quot;]/div[1]/label[@class=&quot;input-chk&quot;]/span[1]</value>
-      <webElementGuid>8103860f-2f24-4af3-865b-e935776b4ffe</webElementGuid>
+      <webElementGuid>6a1e4f10-bfb2-4f9e-8772-4c17dd521e70</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='허용'])[1]/following::span[1]</value>
-      <webElementGuid>83178f0b-6af2-4943-8d2d-abf739f354da</webElementGuid>
+      <webElementGuid>595d01d8-a805-4676-a460-3e85b597ffc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='채용분야 중복지원'])[1]/following::span[2]</value>
-      <webElementGuid>09497d98-bcd6-4b3d-983f-04c9f6789efd</webElementGuid>
+      <webElementGuid>5d370802-e5bf-49a0-9756-b431687dfbf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='채용공고 중복지원'])[1]/preceding::span[1]</value>
-      <webElementGuid>320f611e-8177-4920-86f3-a5ba1045387d</webElementGuid>
+      <webElementGuid>66f9df16-c729-424d-b269-9dd60565541e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='허용'])[2]/preceding::span[1]</value>
-      <webElementGuid>f232e592-0254-4ba3-a677-c55f2e07cc9f</webElementGuid>
+      <webElementGuid>5775ef96-4834-45e6-ab0b-5e2daef7e6a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='허용안함']/parent::*</value>
-      <webElementGuid>a4585ac4-79e3-43b0-858d-172be86f5f50</webElementGuid>
+      <webElementGuid>3892e6ba-e3e5-49b7-8376-1328cf282871</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div/label[2]/span</value>
-      <webElementGuid>f15914e1-6af4-41cb-a7f4-49abaac7643b</webElementGuid>
+      <webElementGuid>63a53772-68f4-4ad3-98ab-d22919edaf74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '허용안함' or . = '허용안함')]</value>
-      <webElementGuid>fc2ed258-fb4d-46d6-ab0d-f391f05fc62d</webElementGuid>
+      <webElementGuid>4e3c63a2-4d0c-4732-941b-a82ac632382a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

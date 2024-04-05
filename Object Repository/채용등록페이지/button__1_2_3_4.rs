@@ -3,22 +3,22 @@
    <description></description>
    <name>button__1_2_3_4</name>
    <tag></tag>
-   <elementGuidId>93f78491-699a-48a8-aeef-b3ccf3f35989</elementGuidId>
+   <elementGuidId>565d170b-f115-46bf-b593-34b93e71270e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.contents-nav__btn-box > button.base-btn.type1__size-m</value>
+         <value>section.popup__container.isShow > div.popup__btn-wrap > button.base-btn.type1__size-m</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[20]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='안내'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;저장&quot;i]</value>
+         <value>internal:role=button[name=&quot;확인&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c01fad5e-4850-4c9f-9525-541c46fe3c5c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>43a81b69-008f-4563-929b-6fc173bbabd7</webElementGuid>
+      <webElementGuid>d2d88aa2-04b2-4afc-bce5-88b323b44a1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,94 +37,78 @@
       <name>class</name>
       <type>Main</type>
       <value>base-btn type1__size-m</value>
-      <webElementGuid>0aa8e036-668e-4056-ab8b-07f1d5631e5a</webElementGuid>
+      <webElementGuid>134ecf98-8ddd-4cd4-8722-1c09fd965ed7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>data-ref</name>
       <type>Main</type>
-      <value>WAP_EMPL_0010_FnSave()</value>
-      <webElementGuid>607065e8-1d77-44b5-aeb3-36d6fe040da6</webElementGuid>
+      <value>btnConfirm</value>
+      <webElementGuid>42bdea42-085b-44c0-8f8f-69ff48f46755</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>저장</value>
-      <webElementGuid>4038582a-117b-4bb3-840e-8a3b0e325646</webElementGuid>
+      <value>확인</value>
+      <webElementGuid>a322da89-ed02-4e4d-be1b-8d2716dbaf19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;contents-nav type2&quot;]/div[@class=&quot;contents-nav__inner&quot;]/div[@class=&quot;contents-nav__btn-box&quot;]/button[@class=&quot;base-btn type1__size-m&quot;]</value>
-      <webElementGuid>822a5475-5b38-4bd2-8569-2a4fb3a03251</webElementGuid>
+      <value>/html[1]/body[@class=&quot;isLayerShow&quot;]/div[@class=&quot;layer-popup type-modal isShow&quot;]/section[@class=&quot;popup__container isShow&quot;]/div[@class=&quot;popup__btn-wrap&quot;]/button[@class=&quot;base-btn type1__size-m&quot;]</value>
+      <webElementGuid>4b364e89-fc08-4a80-b34a-42e6863d94c6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[20]</value>
-      <webElementGuid>5c0e1e0c-8755-4085-b381-38e65b6076ed</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='안내'])[1]/following::button[1]</value>
+      <webElementGuid>bd21c768-8258-41b7-9f0e-234635d9e2b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/following::button[1]</value>
-      <webElementGuid>1f98aafb-9895-4b15-b3ae-64fba2fa9788</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer 영역입니다.'])[1]/following::button[1]</value>
+      <webElementGuid>970d836b-eac5-4f0b-8861-aa88f0b703fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='입사지원 약관'])[1]/following::button[2]</value>
-      <webElementGuid>143fcc67-ca43-417f-9288-56b445ea2e26</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='닫기'])[5]/preceding::button[1]</value>
+      <webElementGuid>4423e863-768b-4791-9a5a-752f8bb56ea6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='채용등록'])[2]/preceding::button[1]</value>
-      <webElementGuid>4e9b165f-cd46-4a5a-88df-b7a43d15cac6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='기본정보'])[2]/preceding::button[1]</value>
-      <webElementGuid>9d9c6c3b-9151-4680-9e26-31a25a60c719</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='저장']/parent::*</value>
-      <webElementGuid>576b98e0-33bb-4c7e-8675-e93c1816a149</webElementGuid>
+      <value>//*/text()[normalize-space(.)='확인']/parent::*</value>
+      <webElementGuid>dc54b5e9-f8fe-4f59-8330-5011e853866e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div[2]/button[2]</value>
-      <webElementGuid>80a1412c-02f4-4aa6-a2c1-35e7ab34719c</webElementGuid>
+      <value>//div[4]/section/div[3]/button</value>
+      <webElementGuid>43d9286d-faa3-4cf6-81c2-81daa92db8f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = '저장' or . = '저장')]</value>
-      <webElementGuid>922bbce2-0bdc-48de-91fe-fe69e66a7685</webElementGuid>
+      <value>//button[(text() = '확인' or . = '확인')]</value>
+      <webElementGuid>ebc77ea9-a889-4555-8ebd-c572c3891055</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

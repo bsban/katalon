@@ -3,7 +3,7 @@
    <description></description>
    <name>input__departmentName</name>
    <tag></tag>
-   <elementGuidId>17e91c20-3ea9-4213-9417-6c3502f1402d</elementGuidId>
+   <elementGuidId>508d0e21-40ea-4c09-b284-721b75e98934</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4f55b75b-5930-406a-8a0f-5d58e87bcd5a</webElementGuid>
+      <webElementGuid>b2c6a4bf-cdf5-4731-b34c-47120da67960</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ff0d8e66-b583-48dc-9c83-6f65458b3dbd</webElementGuid>
+      <webElementGuid>0b149296-0ff5-4f13-a2c9-c74db47cb1d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-txt</value>
-      <webElementGuid>219111c8-2602-4792-8d1f-ec72fd28218a</webElementGuid>
+      <webElementGuid>456bd944-4e9f-48d7-8a41-a4151a1a563a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>departmentName</value>
-      <webElementGuid>857b028d-a4fc-4a3d-9db2-ad6ddb00544a</webElementGuid>
+      <webElementGuid>4008cc8a-1272-47ed-9d04-28d2ed63cb40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>oninput</name>
       <type>Main</type>
       <value>inputValueChk()</value>
-      <webElementGuid>9e2b9803-98e7-4dd7-beb4-59553718df70</webElementGuid>
+      <webElementGuid>eab9a24e-f452-44a8-bace-8e126a8e1958</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>채용분야 검색</value>
-      <webElementGuid>53d38b57-b6e9-4db3-99b1-c18c98d95d4a</webElementGuid>
+      <webElementGuid>1cb93361-ef8a-4cb0-ae31-ede0bba30006</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>javascript:if(event.keyCode==13) { addField() }</value>
-      <webElementGuid>9aa42c08-25bb-4699-9f92-e4a47edd2474</webElementGuid>
+      <webElementGuid>718fab62-aa25-4a80-b1db-8d508a654e79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;departmentName&quot;)</value>
-      <webElementGuid>c9b55ad9-37cc-416e-8f22-eb32e4126959</webElementGuid>
+      <webElementGuid>119af282-c071-48ad-ada9-1467ec49598f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='departmentName']</value>
-      <webElementGuid>7bb8b506-ea3f-499b-a94b-2e3c8869780a</webElementGuid>
+      <webElementGuid>5c019919-4010-4bc6-a8ef-d284a1306ddc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/input</value>
-      <webElementGuid>4b79970a-dd17-43e4-b496-8ea810a9e028</webElementGuid>
+      <webElementGuid>1320f11a-998b-4a40-82a4-30db0c79a109</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'departmentName' and @placeholder = '채용분야 검색']</value>
-      <webElementGuid>fbda3ae3-1ef7-473c-8859-d6573d3d0e9d</webElementGuid>
+      <webElementGuid>7eeb1c3e-806f-4d19-9695-843bf0916794</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
