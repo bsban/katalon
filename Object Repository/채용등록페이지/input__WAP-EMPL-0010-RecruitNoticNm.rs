@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__userId</name>
+   <name>input__WAP-EMPL-0010-RecruitNoticNm</name>
    <tag></tag>
-   <elementGuidId>e872b567-d8c5-4a4b-866f-6f4ffb713d24</elementGuidId>
+   <elementGuidId>bfc9254d-8fd9-4288-9210-9c0fce38b734</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;userId&quot;]</value>
+         <value>#WAP-EMPL-0010-RecruitNoticNm</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='userId']</value>
+         <value>//input[@id='WAP-EMPL-0010-RecruitNoticNm']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;아이디를 입력하세요&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;채용명을 입력해주세요.&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2338303d-45fb-4656-a3ca-df43ccd121c8</webElementGuid>
+      <webElementGuid>6d37b14f-1190-49f8-8b1b-ff5d0b8992f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d652f9eb-cf7b-4f9d-99f2-138d166da8ad</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>userId</value>
-      <webElementGuid>3e53db48-d9bb-4fb9-9ef7-cfa55d93c26b</webElementGuid>
+      <webElementGuid>224aa473-a375-46ac-80b4-42d9bdc0b21d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +45,15 @@
       <name>class</name>
       <type>Main</type>
       <value>input-txt</value>
-      <webElementGuid>2a8b2dcb-1f05-4ed1-bedf-fd0f24cf9079</webElementGuid>
+      <webElementGuid>cb3e012b-55a0-44db-a42a-fddd52d8c008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>WAP-EMPL-0010-RecruitNoticNm</value>
+      <webElementGuid>84480836-ec03-4cfa-a179-ab89d453e520</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,46 +61,46 @@
       <name>oninput</name>
       <type>Main</type>
       <value>inputValueChk()</value>
-      <webElementGuid>e888a37f-053a-4f11-9521-d00faacfad66</webElementGuid>
+      <webElementGuid>7250a3bc-cc1b-4c01-b542-43bc09b4ffcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>아이디를 입력하세요</value>
-      <webElementGuid>301b87a3-b8da-4f8d-b0b2-1ca0bc0e53b4</webElementGuid>
+      <value>채용명을 입력해주세요.</value>
+      <webElementGuid>221c2049-240a-4286-ba74-bdd71c823de4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;login-wrap&quot;]/form[@class=&quot;form-signin&quot;]/div[@class=&quot;login-wrap__box&quot;]/div[@class=&quot;form-inner&quot;]/div[@class=&quot;input-box&quot;]/input[@class=&quot;input-txt&quot;]</value>
-      <webElementGuid>39a8e911-9dcf-47c7-b724-1d4f3c33d255</webElementGuid>
+      <value>id(&quot;WAP-EMPL-0010-RecruitNoticNm&quot;)</value>
+      <webElementGuid>4999a8d8-9b01-4b7e-9b26-d3a47bede819</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='userId']</value>
-      <webElementGuid>30f18d4b-59b9-4eac-8712-831c77b421eb</webElementGuid>
+      <value>//input[@id='WAP-EMPL-0010-RecruitNoticNm']</value>
+      <webElementGuid>92db6cc9-da70-42d2-bb36-5b5146abe0c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>3cd21b15-1dce-463e-ad51-21f1360f6bbd</webElementGuid>
+      <value>//div[2]/div/div[2]/div/input</value>
+      <webElementGuid>64455cd2-b303-480e-b268-9cad24f95e9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'userId' and @placeholder = '아이디를 입력하세요']</value>
-      <webElementGuid>f915840b-ab53-401a-bf31-b692e3e54331</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'WAP-EMPL-0010-RecruitNoticNm' and @placeholder = '채용명을 입력해주세요.']</value>
+      <webElementGuid>110aa9a7-3552-49e7-95e9-5df844945cd1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

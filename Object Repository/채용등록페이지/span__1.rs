@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1</name>
+   <tag></tag>
+   <elementGuidId>1cde267b-9871-4fef-ba77-92516ed54f5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='허용'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;허용안함&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8020292e-7f1d-413d-a379-4a4f4b11d5f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>허용안함</value>
+      <webElementGuid>e7b7d395-6899-472f-bd37-08d8167fb6e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;contents&quot;]/section[@class=&quot;form-set__box&quot;]/div[@class=&quot;box-type1&quot;]/div[@class=&quot;form-row__flex&quot;]/div[@class=&quot;form-td&quot;]/div[1]/label[@class=&quot;input-chk&quot;]/span[1]</value>
+      <webElementGuid>8103860f-2f24-4af3-865b-e935776b4ffe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='허용'])[1]/following::span[1]</value>
+      <webElementGuid>83178f0b-6af2-4943-8d2d-abf739f354da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='채용분야 중복지원'])[1]/following::span[2]</value>
+      <webElementGuid>09497d98-bcd6-4b3d-983f-04c9f6789efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='채용공고 중복지원'])[1]/preceding::span[1]</value>
+      <webElementGuid>320f611e-8177-4920-86f3-a5ba1045387d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='허용'])[2]/preceding::span[1]</value>
+      <webElementGuid>f232e592-0254-4ba3-a677-c55f2e07cc9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='허용안함']/parent::*</value>
+      <webElementGuid>a4585ac4-79e3-43b0-858d-172be86f5f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/label[2]/span</value>
+      <webElementGuid>f15914e1-6af4-41cb-a7f4-49abaac7643b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '허용안함' or . = '허용안함')]</value>
+      <webElementGuid>fc2ed258-fb4d-46d6-ab0d-f391f05fc62d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

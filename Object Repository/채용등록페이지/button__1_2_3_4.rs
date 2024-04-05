@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h4_test 240305</name>
+   <name>button__1_2_3_4</name>
    <tag></tag>
-   <elementGuidId>114ecbb9-bb7c-471a-9b97-44d712f8f121</elementGuidId>
+   <elementGuidId>93f78491-699a-48a8-aeef-b3ccf3f35989</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//h4[@id='WAP-EMPL-0030-Title']</value>
+         <key>CSS</key>
+         <value>div.contents-nav__btn-box > button.base-btn.type1__size-m</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#WAP-EMPL-0030-Title</value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[20]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=heading[name=&quot;[test] 채용공고등록테스트240305&quot;s]</value>
+         <value>internal:role=button[name=&quot;저장&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h4</value>
-      <webElementGuid>381fece1-ce26-44e2-aa64-ad00cc7db38f</webElementGuid>
+      <value>button</value>
+      <webElementGuid>c01fad5e-4850-4c9f-9525-541c46fe3c5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>43a81b69-008f-4563-929b-6fc173bbabd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>header-title</value>
-      <webElementGuid>cef0d829-3fee-4a79-aeab-c4ff9ac12cd9</webElementGuid>
+      <value>base-btn type1__size-m</value>
+      <webElementGuid>0aa8e036-668e-4056-ab8b-07f1d5631e5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>WAP-EMPL-0030-Title</value>
-      <webElementGuid>dacf2ac8-d975-489c-a42d-56ca4f9f84c0</webElementGuid>
+      <value>WAP_EMPL_0010_FnSave()</value>
+      <webElementGuid>607065e8-1d77-44b5-aeb3-36d6fe040da6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>[test] 채용공고등록테스트240305</value>
-      <webElementGuid>8641b44c-7ee1-4b3a-bf88-bc8acd24933a</webElementGuid>
+      <value>저장</value>
+      <webElementGuid>4038582a-117b-4bb3-840e-8a3b0e325646</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;WAP-EMPL-0030-Title&quot;)</value>
-      <webElementGuid>124d94f2-8b42-4acb-9001-c94b58f7b599</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;contents-nav type2&quot;]/div[@class=&quot;contents-nav__inner&quot;]/div[@class=&quot;contents-nav__btn-box&quot;]/button[@class=&quot;base-btn type1__size-m&quot;]</value>
+      <webElementGuid>822a5475-5b38-4bd2-8569-2a4fb3a03251</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//h4[@id='WAP-EMPL-0030-Title']</value>
-      <webElementGuid>5f472258-69f0-49c1-aa66-0250c85cf4d6</webElementGuid>
+      <value>(//button[@type='button'])[20]</value>
+      <webElementGuid>5c0e1e0c-8755-4085-b381-38e65b6076ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='홈'])[2]/following::h4[1]</value>
-      <webElementGuid>7a048f1e-6baa-429f-826b-0ebb3ffe496c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='취소'])[1]/following::button[1]</value>
+      <webElementGuid>1f98aafb-9895-4b15-b3ae-64fba2fa9788</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='통계'])[1]/following::h4[1]</value>
-      <webElementGuid>d64ca9a7-cf9c-4435-bf03-80947099f32f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='입사지원 약관'])[1]/following::button[2]</value>
+      <webElementGuid>143fcc67-ca43-417f-9288-56b445ea2e26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='채용정보 수정'])[1]/preceding::h4[1]</value>
-      <webElementGuid>bb272bc7-20fd-4108-aac6-47535f0fb51c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='채용등록'])[2]/preceding::button[1]</value>
+      <webElementGuid>4e9b165f-cd46-4a5a-88df-b7a43d15cac6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='알림설정'])[1]/preceding::h4[1]</value>
-      <webElementGuid>3571ace6-91e2-4caa-a2b1-48e192fd4708</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='기본정보'])[2]/preceding::button[1]</value>
+      <webElementGuid>9d9c6c3b-9151-4680-9e26-31a25a60c719</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='[test] 채용공고등록테스트240305']/parent::*</value>
-      <webElementGuid>22162afe-4a0e-4b9a-a5cd-6077e00b651d</webElementGuid>
+      <value>//*/text()[normalize-space(.)='저장']/parent::*</value>
+      <webElementGuid>576b98e0-33bb-4c7e-8675-e93c1816a149</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h4</value>
-      <webElementGuid>1c8cc9dd-caa5-49fb-bced-95d1a8d630e6</webElementGuid>
+      <value>//div/div/div[2]/button[2]</value>
+      <webElementGuid>80a1412c-02f4-4aa6-a2c1-35e7ab34719c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h4[@id = 'WAP-EMPL-0030-Title' and (text() = '[test] 채용공고등록테스트240305' or . = '[test] 채용공고등록테스트240305')]</value>
-      <webElementGuid>d1f67e16-ca2f-463b-a4c5-05fcf5dc4252</webElementGuid>
+      <value>//button[@type = 'button' and (text() = '저장' or . = '저장')]</value>
+      <webElementGuid>922bbce2-0bdc-48de-91fe-fe69e66a7685</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

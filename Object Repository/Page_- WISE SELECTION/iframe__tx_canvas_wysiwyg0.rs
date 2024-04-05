@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__userId</name>
+   <name>iframe__tx_canvas_wysiwyg0</name>
    <tag></tag>
-   <elementGuidId>e872b567-d8c5-4a4b-866f-6f4ffb713d24</elementGuidId>
+   <elementGuidId>70a7ba68-a982-43bc-aaf6-a6bbe1556d45</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;userId&quot;]</value>
+         <value>#tx_canvas_wysiwyg0</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='userId']</value>
+         <value>//iframe[@id='tx_canvas_wysiwyg0']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;아이디를 입력하세요&quot;i]</value>
+         <value>iframe[name=&quot;tx_canvas_wysiwyg0&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,79 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>2338303d-45fb-4656-a3ca-df43ccd121c8</webElementGuid>
+      <value>iframe</value>
+      <webElementGuid>44e00770-773f-491e-8733-05e318b6291b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>d652f9eb-cf7b-4f9d-99f2-138d166da8ad</webElementGuid>
+      <value>tx_canvas_wysiwyg0</value>
+      <webElementGuid>c4b83c17-b853-4792-aacc-543330de77c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>userId</value>
-      <webElementGuid>3e53db48-d9bb-4fb9-9ef7-cfa55d93c26b</webElementGuid>
+      <value>tx_canvas_wysiwyg0</value>
+      <webElementGuid>480da2c6-f490-4931-8a90-238730397dcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>allowtransparency</name>
       <type>Main</type>
-      <value>input-txt</value>
-      <webElementGuid>2a8b2dcb-1f05-4ed1-bedf-fd0f24cf9079</webElementGuid>
+      <value>true</value>
+      <webElementGuid>7edac704-915a-42e4-83bb-9d0c11d9d0d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>oninput</name>
+      <name>frameborder</name>
       <type>Main</type>
-      <value>inputValueChk()</value>
-      <webElementGuid>e888a37f-053a-4f11-9521-d00faacfad66</webElementGuid>
+      <value>0</value>
+      <webElementGuid>238ca886-0160-4c54-9d13-5a6ed4337cbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>title</name>
       <type>Main</type>
-      <value>아이디를 입력하세요</value>
-      <webElementGuid>301b87a3-b8da-4f8d-b0b2-1ca0bc0e53b4</webElementGuid>
+      <value>에디터 영역 : 에디터 영역에서 빠져 나오시려면 Shift+ESC키를 누르세요</value>
+      <webElementGuid>9b5506de-da67-4120-b7c2-d1246428bc18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;login-wrap&quot;]/form[@class=&quot;form-signin&quot;]/div[@class=&quot;login-wrap__box&quot;]/div[@class=&quot;form-inner&quot;]/div[@class=&quot;input-box&quot;]/input[@class=&quot;input-txt&quot;]</value>
-      <webElementGuid>39a8e911-9dcf-47c7-b724-1d4f3c33d255</webElementGuid>
+      <value>id(&quot;tx_canvas_wysiwyg0&quot;)</value>
+      <webElementGuid>e0fd8cc8-c885-4006-a02c-28500ee90d6f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='userId']</value>
-      <webElementGuid>30f18d4b-59b9-4eac-8712-831c77b421eb</webElementGuid>
+      <value>//iframe[@id='tx_canvas_wysiwyg0']</value>
+      <webElementGuid>09ab7e05-0f05-4358-a4aa-68d635125402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tx_canvas_wysiwyg_holder0']/iframe</value>
+      <webElementGuid>d0472726-c870-415e-9d7f-fac8c4c61c5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>3cd21b15-1dce-463e-ad51-21f1360f6bbd</webElementGuid>
+      <value>//iframe</value>
+      <webElementGuid>ef917133-1f03-4e58-947b-2278f5ef0369</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'userId' and @placeholder = '아이디를 입력하세요']</value>
-      <webElementGuid>f915840b-ab53-401a-bf31-b692e3e54331</webElementGuid>
+      <value>//iframe[@id = 'tx_canvas_wysiwyg0' and @name = 'tx_canvas_wysiwyg0' and @title = '에디터 영역 : 에디터 영역에서 빠져 나오시려면 Shift+ESC키를 누르세요']</value>
+      <webElementGuid>8bf332aa-c7b1-4fe2-a758-bc52f061c48b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

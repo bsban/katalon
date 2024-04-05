@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_</name>
+   <name>button__1</name>
    <tag></tag>
-   <elementGuidId>ad4907af-28a4-4ee8-8416-bd7692146ebe</elementGuidId>
+   <elementGuidId>69da0509-1b85-49d5-958a-2538d05bec48</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.base-btn.type1__size-m</value>
+         <value>#WAP-EMPL-0010-ScrnAddInterview</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//button[@id='WAP-EMPL-0010-ScrnAddInterview']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;관리자 로그인&quot;i]</value>
+         <value>internal:role=button[name=&quot;면접전형&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,102 +29,108 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>efbc9d85-22c0-400c-b101-9d44c7706ea3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>5c6f254e-1a4b-4e66-9a53-6da72da401ba</webElementGuid>
+      <webElementGuid>75ffd2e9-8723-4086-9798-285f7a170cde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>base-btn type1__size-m</value>
-      <webElementGuid>65b7af42-246b-4dfe-806f-ed5925d3f3b2</webElementGuid>
+      <value>base-btn type2__size-s</value>
+      <webElementGuid>adacb8bb-3a8b-478c-a614-0ab6107444e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>WAP-EMPL-0010-ScrnAddInterview</value>
+      <webElementGuid>7cb885bb-1a4a-4967-a6f3-fe9936e9cbe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>addSelection('interview')</value>
+      <webElementGuid>311728f9-a4a3-4c43-8605-9bf6e21d6d74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>관리자 로그인</value>
-      <webElementGuid>91713408-ee15-46de-b203-7e2a2a40a5b2</webElementGuid>
+      <value>
+							면접전형
+						</value>
+      <webElementGuid>65521f76-1db9-4cf8-95ab-2aacd491ae3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;login-wrap&quot;]/form[@class=&quot;form-signin&quot;]/div[@class=&quot;login-wrap__box&quot;]/div[@class=&quot;content-mt5&quot;]/button[@class=&quot;base-btn type1__size-m&quot;]</value>
-      <webElementGuid>1cf6092c-0c72-48a5-b056-f417552178d8</webElementGuid>
+      <value>id(&quot;WAP-EMPL-0010-ScrnAddInterview&quot;)</value>
+      <webElementGuid>b45c621f-317c-4aab-a2e4-a7147e2312a6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>7f364758-e2a7-4558-bede-308280a46723</webElementGuid>
+      <value>//button[@id='WAP-EMPL-0010-ScrnAddInterview']</value>
+      <webElementGuid>9789898e-ba13-4511-aeca-0e76dcb3b77a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addSelection']/div/div[2]/div/button[3]</value>
+      <webElementGuid>06889744-6871-4b34-8a09-8e8625ddbc1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='아이디저장'])[1]/following::button[1]</value>
-      <webElementGuid>179faf4e-50bb-4eef-a303-2288af1c9bca</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='필기전형'])[1]/following::button[1]</value>
+      <webElementGuid>b2d5c7dd-c080-4e49-b304-cede0c0262c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='입력 삭제'])[2]/following::button[1]</value>
-      <webElementGuid>b691dc53-5bc1-424b-9c01-a346da976589</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서류전형'])[1]/following::button[2]</value>
+      <webElementGuid>6bedce75-d352-4449-976d-647527cf4809</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='크롬다운받기'])[1]/preceding::button[1]</value>
-      <webElementGuid>83dd8377-5df6-4743-8e94-e558ba28acf9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='비밀번호 초기화'])[1]/preceding::button[1]</value>
-      <webElementGuid>32ceda88-9d46-4a49-80dd-0b55a32a985f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='관리자 로그인']/parent::*</value>
-      <webElementGuid>b35fd081-6982-4906-86c6-e56a5ff496cd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서류전형'])[2]/preceding::button[1]</value>
+      <webElementGuid>d3e05948-5099-4c7b-80e3-f98cdd30b78a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/button</value>
-      <webElementGuid>8ae3d629-9d23-4c51-ba20-8636b5849047</webElementGuid>
+      <value>//div[2]/div/button[3]</value>
+      <webElementGuid>65e9d3e6-7fa0-4c6f-b6a3-c9386903ab9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = '관리자 로그인' or . = '관리자 로그인')]</value>
-      <webElementGuid>30797e8b-d4d2-4ee4-b4c4-79ee0234b3c6</webElementGuid>
+      <value>//button[@id = 'WAP-EMPL-0010-ScrnAddInterview' and (text() = '
+							면접전형
+						' or . = '
+							면접전형
+						')]</value>
+      <webElementGuid>e06f6ca3-e8fe-482d-a39f-15f08fc8e045</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

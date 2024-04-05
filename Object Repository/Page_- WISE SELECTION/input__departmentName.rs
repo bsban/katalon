@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__userId</name>
+   <name>input__departmentName</name>
    <tag></tag>
-   <elementGuidId>e872b567-d8c5-4a4b-866f-6f4ffb713d24</elementGuidId>
+   <elementGuidId>508d0e21-40ea-4c09-b284-721b75e98934</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;userId&quot;]</value>
+         <value>#departmentName</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='userId']</value>
+         <value>//input[@id='departmentName']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;아이디를 입력하세요&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;채용분야 검색&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2338303d-45fb-4656-a3ca-df43ccd121c8</webElementGuid>
+      <webElementGuid>b2c6a4bf-cdf5-4731-b34c-47120da67960</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d652f9eb-cf7b-4f9d-99f2-138d166da8ad</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>userId</value>
-      <webElementGuid>3e53db48-d9bb-4fb9-9ef7-cfa55d93c26b</webElementGuid>
+      <webElementGuid>0b149296-0ff5-4f13-a2c9-c74db47cb1d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +45,15 @@
       <name>class</name>
       <type>Main</type>
       <value>input-txt</value>
-      <webElementGuid>2a8b2dcb-1f05-4ed1-bedf-fd0f24cf9079</webElementGuid>
+      <webElementGuid>456bd944-4e9f-48d7-8a41-a4151a1a563a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>departmentName</value>
+      <webElementGuid>4008cc8a-1272-47ed-9d04-28d2ed63cb40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,46 +61,54 @@
       <name>oninput</name>
       <type>Main</type>
       <value>inputValueChk()</value>
-      <webElementGuid>e888a37f-053a-4f11-9521-d00faacfad66</webElementGuid>
+      <webElementGuid>eab9a24e-f452-44a8-bace-8e126a8e1958</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>아이디를 입력하세요</value>
-      <webElementGuid>301b87a3-b8da-4f8d-b0b2-1ca0bc0e53b4</webElementGuid>
+      <value>채용분야 검색</value>
+      <webElementGuid>1cb93361-ef8a-4cb0-ae31-ede0bba30006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeypress</name>
+      <type>Main</type>
+      <value>javascript:if(event.keyCode==13) { addField() }</value>
+      <webElementGuid>718fab62-aa25-4a80-b1db-8d508a654e79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;login-wrap&quot;]/form[@class=&quot;form-signin&quot;]/div[@class=&quot;login-wrap__box&quot;]/div[@class=&quot;form-inner&quot;]/div[@class=&quot;input-box&quot;]/input[@class=&quot;input-txt&quot;]</value>
-      <webElementGuid>39a8e911-9dcf-47c7-b724-1d4f3c33d255</webElementGuid>
+      <value>id(&quot;departmentName&quot;)</value>
+      <webElementGuid>119af282-c071-48ad-ada9-1467ec49598f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='userId']</value>
-      <webElementGuid>30f18d4b-59b9-4eac-8712-831c77b421eb</webElementGuid>
+      <value>//input[@id='departmentName']</value>
+      <webElementGuid>5c019919-4010-4bc6-a8ef-d284a1306ddc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>3cd21b15-1dce-463e-ad51-21f1360f6bbd</webElementGuid>
+      <value>//div[3]/div[2]/div/input</value>
+      <webElementGuid>1320f11a-998b-4a40-82a4-30db0c79a109</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'userId' and @placeholder = '아이디를 입력하세요']</value>
-      <webElementGuid>f915840b-ab53-401a-bf31-b692e3e54331</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'departmentName' and @placeholder = '채용분야 검색']</value>
+      <webElementGuid>7eeb1c3e-806f-4d19-9695-843bf0916794</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

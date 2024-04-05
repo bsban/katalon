@@ -3,15 +3,15 @@
    <description></description>
    <name>input__pw</name>
    <tag></tag>
-   <elementGuidId>043f6a84-ff0b-4c8d-ac37-8954aed8bcc7</elementGuidId>
+   <elementGuidId>a8fa181c-163c-44af-a5e8-85368e5f7692</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@name='pw']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;pw&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='pw']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6cc649dd-a4f1-478e-b416-65cde69998d8</webElementGuid>
+      <webElementGuid>c51b220d-5942-4ef7-9bdb-75f525fd0e16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>46d4f92f-ec9a-4b03-b7aa-b1a4fbf8bd47</webElementGuid>
+      <webElementGuid>a9467c40-71c0-4b27-a664-7ab734c8928c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>pw</value>
-      <webElementGuid>6c572c88-2c07-41e4-ae1c-78210c5d3163</webElementGuid>
+      <webElementGuid>1a587988-bf00-4bc6-b45a-83d607329ec3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-txt</value>
-      <webElementGuid>69e42bbf-eff5-4d8a-9b2f-64082cda2e32</webElementGuid>
+      <webElementGuid>380aa6c4-23cd-4146-a953-c8ecea93b220</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>oninput</name>
       <type>Main</type>
       <value>inputValueChk()</value>
-      <webElementGuid>5e517944-c7f4-429c-a514-ad176e2a89d9</webElementGuid>
+      <webElementGuid>fb5719ea-5fa8-4d37-9bec-1a63d621677b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,15 +69,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>비밀번호를 입력하세요</value>
-      <webElementGuid>8f9dc7f5-bbd6-4367-84bc-9cd4611ce584</webElementGuid>
+      <webElementGuid>57d5c507-51d5-4d33-a171-fc9d48489135</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;login-wrap&quot;]/form[@class=&quot;form-signin&quot;]/div[@class=&quot;login-wrap__box&quot;]/div[@class=&quot;form-inner&quot;]/div[@class=&quot;input-box&quot;]/input[@class=&quot;input-txt&quot;]</value>
-      <webElementGuid>c93416aa-75f0-46f0-b82d-4c14d7ca4085</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;login-wrap&quot;]/form[@class=&quot;form-signin&quot;]/div[@class=&quot;login-wrap__box&quot;]/div[@class=&quot;form-inner&quot;]/div[@class=&quot;input-box isValue&quot;]/input[@class=&quot;input-txt&quot;]</value>
+      <webElementGuid>b0f12c62-bf26-4da8-937b-6cd0d2342145</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='pw']</value>
-      <webElementGuid>607de906-4276-49e3-ac92-543b14408e6a</webElementGuid>
+      <webElementGuid>f57af6d6-733b-4999-8c00-48c7f2501547</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>a122d098-c115-4676-a556-04039c6a9f90</webElementGuid>
+      <webElementGuid>f260f623-f360-4540-a534-dfa9abc4c7ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'pw' and @placeholder = '비밀번호를 입력하세요']</value>
-      <webElementGuid>2aa65878-57bb-4fbb-bb80-e38e0ecc98b1</webElementGuid>
+      <webElementGuid>1227eaf1-3d2c-4d1b-80dc-d74d44c02d77</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

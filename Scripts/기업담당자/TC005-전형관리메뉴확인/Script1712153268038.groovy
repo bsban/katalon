@@ -26,20 +26,20 @@ WebUI.navigateToUrl('http://mgt.wiselection.com/login.do')
 
 WebUI.callTestCase(findTestCase('기업담당자/TC001-기업담당자로그인'), [:], FailureHandling.STOP_ON_FAILURE)
 
-//WebUI.verifyElementText(findTestObject('Object Repository/Page_- WISE SELECTION/strong_test 240305 (2024.03.05)'), '[test] 채용공고등록테스트240305 (~2024.03.05)')
-recruitNameText = WebUI.getText(findTestObject('Object Repository/Page_- WISE SELECTION/strong_test 240305 (2024.03.05)'))
+//WebUI.verifyElementText(findTestObject('Object Repository/채용등록페이지/공고명'), '[test] 채용공고등록테스트240305 (~2024.03.05)')
+recruitNameText = WebUI.getText(findTestObject('Object Repository/채용등록페이지/공고명'))
 
 int offset = recruitNameText.indexOf("(")
 if (offset != -1) {
 	recruitNameText = recruitNameText.substring(0,offset).trim()
 }
 
-WebUI.click(findTestObject('Object Repository/Page_- WISE SELECTION/a_'))
+WebUI.click(findTestObject('Object Repository/채용등록페이지/자세히보기버튼'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_- WISE SELECTION/h4_test 240305'), recruitNameText)
+WebUI.verifyElementText(findTestObject('Object Repository/채용등록페이지/전형관리홈_공고명'), recruitNameText)
 
-//WebUI.verifyElementText(findTestObject('Object Repository/Page_- WISE SELECTION/h2__2 test 240305'), '[아던트_계열사2] [test] 채용공고등록테스트240305')
-String compText = WebUI.getText(findTestObject('Object Repository/Page_- WISE SELECTION/h2__2 test 240305'))
+//WebUI.verifyElementText(findTestObject('Object Repository/채용등록페이지/중단바_공고명'), '[아던트_계열사2] [test] 채용공고등록테스트240305')
+String compText = WebUI.getText(findTestObject('Object Repository/채용등록페이지/중단바_공고명'))
 if ( compText.contains(recruitNameText)) {
 	KeywordUtil.markPassed("ok!")
 } else {

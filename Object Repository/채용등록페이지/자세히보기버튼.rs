@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_</name>
+   <name>자세히보기버튼</name>
    <tag></tag>
    <elementGuidId>2ca0d69c-5203-4f17-8914-c86c91578039</elementGuidId>
    <selectorCollection>

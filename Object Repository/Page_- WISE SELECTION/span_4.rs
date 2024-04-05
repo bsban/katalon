@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_4</name>
+   <tag></tag>
+   <elementGuidId>89985abd-7498-436a-ba4b-071e0fc4c46d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.datepicker-cell.day.today.focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='토'])[1]/following::span[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.datepicker-grid > span:nth-child(5) >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b3ea135-288c-46ef-b677-f8e2adf93acd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-date</name>
+      <type>Main</type>
+      <value>1712156400000</value>
+      <webElementGuid>aabc791e-8eb4-4d3c-90d3-d8e6dd7289ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datepicker-cell day today focused</value>
+      <webElementGuid>b05cf517-9660-43f0-b8ed-639c165b7443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>9642a95c-99f0-47b0-9765-4a852506a406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;contents&quot;]/section[@class=&quot;form-set__box&quot;]/div[@class=&quot;box-type1&quot;]/div[@class=&quot;form-row__flex type3&quot;]/div[@class=&quot;form-td&quot;]/div[@class=&quot;form-inner type-gap3&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;form-cell&quot;]/div[@class=&quot;input-box type-calendar&quot;]/div[@class=&quot;datepicker datepicker-dropdown active datepicker-orient-left datepicker-orient-bottom&quot;]/div[@class=&quot;datepicker-picker&quot;]/div[@class=&quot;datepicker-main&quot;]/div[@class=&quot;datepicker-view&quot;]/div[@class=&quot;days&quot;]/div[@class=&quot;datepicker-grid&quot;]/span[@class=&quot;datepicker-cell day today focused&quot;]</value>
+      <webElementGuid>391608b0-4b1f-457c-9e85-d6fec5e58f48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='토'])[1]/following::span[9]</value>
+      <webElementGuid>f1bd1783-0394-45cf-912d-24211abca6ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='금'])[1]/following::span[10]</value>
+      <webElementGuid>28b503b2-d23f-49d5-ab8e-3528ac4b9deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='오늘'])[1]/preceding::span[76]</value>
+      <webElementGuid>7455e796-e52d-4ae7-9275-e3be10d1114b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='삭제'])[1]/preceding::span[76]</value>
+      <webElementGuid>d87d8a4b-0ba7-4466-ac0a-078f091e284a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span[5]</value>
+      <webElementGuid>ed59d275-869c-40bf-b871-bc1506c82953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '4' or . = '4')]</value>
+      <webElementGuid>49870fe7-1e7a-40db-8591-82ab0f86b709</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2__2 test 240305</name>
+   <name>button_</name>
    <tag></tag>
-   <elementGuidId>e4bf81e9-48c1-41bf-ada7-9fbd30d444ce</elementGuidId>
+   <elementGuidId>574585cb-ded5-4c09-a6aa-7254f4057fa8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//h2[@id='WAP-EMPL-0030-SubTopTitle']</value>
+         <key>CSS</key>
+         <value>#departmentNameAddBtn</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#WAP-EMPL-0030-SubTopTitle</value>
+         <key>XPATH</key>
+         <value>//button[@id='departmentNameAddBtn']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=heading[name=&quot;[아던트_계열사2] [test] 채용공고등록테스트240305&quot;i]</value>
+         <value>internal:role=button[name=&quot;추가&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h2</value>
-      <webElementGuid>3a07e66e-05fa-44d4-a4a4-c4d13a8d7586</webElementGuid>
+      <value>button</value>
+      <webElementGuid>b338889d-e9d2-4ca9-8575-6ec49072b953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f48b7640-8d63-48a0-918a-e49da28cdf5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>contents-header--title</value>
-      <webElementGuid>e22bf0f8-8730-473a-8e91-3ba8f2bcd004</webElementGuid>
+      <value>btn-add</value>
+      <webElementGuid>c9d28bba-ce67-4a96-bbbe-697707b578c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>WAP-EMPL-0030-SubTopTitle</value>
-      <webElementGuid>62819718-773a-4c2c-8e9c-b037391e472d</webElementGuid>
+      <value>departmentNameAddBtn</value>
+      <webElementGuid>d95da93f-f6b3-4006-8b8a-f8b2092275dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>addField()</value>
+      <webElementGuid>bb9f12fb-f738-486a-8abb-e71e86c88f29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>[아던트_계열사2] [test] 채용공고등록테스트240305</value>
-      <webElementGuid>7e242b70-d3de-4194-8197-9b64c45eb166</webElementGuid>
+      <value>추가</value>
+      <webElementGuid>a23d5e8d-c058-4509-9d0f-6abc53d1fa25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;WAP-EMPL-0030-SubTopTitle&quot;)</value>
-      <webElementGuid>fc74566f-2cfe-472b-959a-a05b892c9d78</webElementGuid>
+      <value>id(&quot;departmentNameAddBtn&quot;)</value>
+      <webElementGuid>39723b38-af94-444d-a44a-f68bd3608170</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//h2[@id='WAP-EMPL-0030-SubTopTitle']</value>
-      <webElementGuid>9b70006b-f438-4ee4-9da4-f4259eafda4b</webElementGuid>
+      <value>//button[@id='departmentNameAddBtn']</value>
+      <webElementGuid>377e5a09-07db-4c29-9474-84fb7226e031</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='축소/확대 버튼'])[1]/following::h2[1]</value>
-      <webElementGuid>cb7f60e6-b6c8-4641-8b41-2a73c3d461aa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='입력 삭제'])[8]/following::button[1]</value>
+      <webElementGuid>da95653b-ece0-445d-8cef-bcfa35ce3162</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='팝업테스트전용화면'])[1]/following::h2[1]</value>
-      <webElementGuid>509453bb-be4f-4a2d-b76f-5ef06f4efb33</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='채용분야'])[1]/following::button[2]</value>
+      <webElementGuid>f1a8974e-3e65-426f-ade5-5cbee9ef5243</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='선택하세요'])[1]/preceding::h2[1]</value>
-      <webElementGuid>59d80bcc-9352-4967-96fd-b8833067ba57</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='일반직'])[1]/preceding::button[1]</value>
+      <webElementGuid>9cbf385c-5c1a-4867-b598-1e795108497a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='선택하세요'])[2]/preceding::h2[1]</value>
-      <webElementGuid>9719f2ed-f03e-4f7a-87cb-4a31250d830a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='채용분야 중복지원'])[1]/preceding::button[2]</value>
+      <webElementGuid>7c3809df-5ba9-4471-8302-18101c68a051</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='[아던트_계열사2] [test] 채용공고등록테스트240305']/parent::*</value>
-      <webElementGuid>28fb0146-2abc-4b2e-b9bb-83a1cd7b0509</webElementGuid>
+      <value>//*/text()[normalize-space(.)='추가']/parent::*</value>
+      <webElementGuid>7899fa48-fcc1-4a0b-a366-adcd3b7daa48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h2</value>
-      <webElementGuid>24f16125-dca5-4c3f-aa60-17098fa5d7ee</webElementGuid>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>fe393f79-7cdc-4d1a-ba50-1631868a4df2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h2[@id = 'WAP-EMPL-0030-SubTopTitle' and (text() = '[아던트_계열사2] [test] 채용공고등록테스트240305' or . = '[아던트_계열사2] [test] 채용공고등록테스트240305')]</value>
-      <webElementGuid>067143c7-e4cd-4bec-907e-13717851e69e</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'departmentNameAddBtn' and (text() = '추가' or . = '추가')]</value>
+      <webElementGuid>1e485ad1-f145-4410-abc1-12307ae35fce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_concat(html1bodyclass, , tx-content-container, , )_tx-content-container</name>
+   <tag></tag>
+   <elementGuidId>2961a23a-3dce-49d4-b677-256f3231ece6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body.tx-content-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='개인정보 수집 및 이용수칙1 약관내용 입니다.']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;개인정보 수집 및 이용수칙1 약관내용 입니다./html[1]/body[@class=\&quot;tx-content-container\&quot;]&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>bf7c39d4-ed8c-437b-a365-b65e4825efd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tx-content-container</value>
+      <webElementGuid>f07dfdea-e514-46a3-b28e-5ed241119315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>contenteditable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>45a89695-1dc6-4514-8ba3-b01b6f3324a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;tx-content-container&quot;]</value>
+      <webElementGuid>c914afc6-bca1-4553-93cd-c93239a19a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_- WISE SELECTION/iframe__tx_canvas_wysiwyg0</value>
+      <webElementGuid>7f7a799c-81d5-48f3-8b09-44ee657a7b7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='개인정보 수집 및 이용수칙1 약관내용 입니다.']/parent::*</value>
+      <webElementGuid>98a8e8a2-6ddf-4076-bf04-086797e3a297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>8bb5275f-4105-4a0f-ae48-3cfa2bf1b1a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

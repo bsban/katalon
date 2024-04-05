@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__1</name>
+   <tag></tag>
+   <elementGuidId>140c1337-e5e0-4b59-80be-01ec2acc27fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.datepicker.datepicker-dropdown.active.datepicker-orient-left.datepicker-orient-bottom > div.datepicker-picker > div.datepicker-header > div.datepicker-controls > button.button.next-button.next-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[34]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;»&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>23e8d07b-c3d3-41d6-9c78-ca65323d8b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0e23de61-e26d-4d9a-aa10-3e2f92681da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button next-button next-btn</value>
+      <webElementGuid>52662a44-96bc-4e00-888d-7490c2cf877a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>»</value>
+      <webElementGuid>da58288c-d451-4df6-b1a6-6b9338d6eddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;contents&quot;]/section[@class=&quot;form-set__box&quot;]/div[@class=&quot;box-type1&quot;]/div[@class=&quot;form-row__flex type3&quot;]/div[@class=&quot;form-td&quot;]/div[@class=&quot;form-inner type-gap3&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;form-cell&quot;]/div[@class=&quot;input-box type-calendar&quot;]/div[@class=&quot;datepicker datepicker-dropdown active datepicker-orient-left datepicker-orient-bottom&quot;]/div[@class=&quot;datepicker-picker&quot;]/div[@class=&quot;datepicker-header&quot;]/div[@class=&quot;datepicker-controls&quot;]/button[@class=&quot;button next-button next-btn&quot;]</value>
+      <webElementGuid>ba47321e-8324-4ae6-8dce-557d698d5fe3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[34]</value>
+      <webElementGuid>e951c6d1-0ac1-422e-84f8-b923e37c2318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[2]/following::button[2]</value>
+      <webElementGuid>dc7df6b7-aec5-4223-84ec-1040a4a5a905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='~'])[1]/following::button[3]</value>
+      <webElementGuid>691d1822-536b-46a8-a25d-fdff17fa948f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='일'])[2]/preceding::button[1]</value>
+      <webElementGuid>bcb5e035-5157-4068-97a9-58f9c3f346e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='월'])[2]/preceding::button[1]</value>
+      <webElementGuid>c1c02602-98e3-4c4f-af84-4829358314de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/button[3]</value>
+      <webElementGuid>3d3b44f9-fee2-4877-95a9-403321627828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '»' or . = '»')]</value>
+      <webElementGuid>74fc3b77-3df1-4405-949b-dab7768565a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
