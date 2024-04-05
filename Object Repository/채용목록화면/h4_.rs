@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button__1</name>
+   <name>h4_</name>
    <tag></tag>
-   <elementGuidId>69da0509-1b85-49d5-958a-2538d05bec48</elementGuidId>
+   <elementGuidId>510fc9fa-2f60-4386-b53f-341239d6c2db</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#WAP-EMPL-0010-ScrnAddInterview</value>
+         <value>#WAP-EMPL-0030-Title</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='WAP-EMPL-0010-ScrnAddInterview']</value>
+         <value>//h4[@id='WAP-EMPL-0030-Title']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;면접전형&quot;i]</value>
+         <value>internal:role=heading[name=&quot;[김준영] 정량평가 테스트 공고명&quot;s]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,109 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>75ffd2e9-8723-4086-9798-285f7a170cde</webElementGuid>
+      <value>h4</value>
+      <webElementGuid>079d2cc3-55eb-4c47-a9ab-75565c9a96eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>base-btn type2__size-s</value>
-      <webElementGuid>adacb8bb-3a8b-478c-a614-0ab6107444e2</webElementGuid>
+      <value>header-title</value>
+      <webElementGuid>0d8340de-28ae-4cd0-947a-86e9c3701c90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>WAP-EMPL-0010-ScrnAddInterview</value>
-      <webElementGuid>7cb885bb-1a4a-4967-a6f3-fe9936e9cbe8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>addSelection('interview')</value>
-      <webElementGuid>311728f9-a4a3-4c43-8605-9bf6e21d6d74</webElementGuid>
+      <value>WAP-EMPL-0030-Title</value>
+      <webElementGuid>7f3d937f-7932-480d-9ac9-cd872ec4efbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-							면접전형
-						</value>
-      <webElementGuid>65521f76-1db9-4cf8-95ab-2aacd491ae3a</webElementGuid>
+      <value>[김준영] 정량평가 테스트 공고명</value>
+      <webElementGuid>1c9bf440-9c15-4d20-9895-12dbe11c84f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;WAP-EMPL-0010-ScrnAddInterview&quot;)</value>
-      <webElementGuid>b45c621f-317c-4aab-a2e4-a7147e2312a6</webElementGuid>
+      <value>id(&quot;WAP-EMPL-0030-Title&quot;)</value>
+      <webElementGuid>e230ebce-3550-4f1a-add5-6c17c861adfd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='WAP-EMPL-0010-ScrnAddInterview']</value>
-      <webElementGuid>9789898e-ba13-4511-aeca-0e76dcb3b77a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='addSelection']/div/div[2]/div/button[3]</value>
-      <webElementGuid>06889744-6871-4b34-8a09-8e8625ddbc1f</webElementGuid>
+      <value>//h4[@id='WAP-EMPL-0030-Title']</value>
+      <webElementGuid>ad0824f9-7315-4929-a464-d34ed6e4aebb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='필기전형'])[1]/following::button[1]</value>
-      <webElementGuid>b2d5c7dd-c080-4e49-b304-cede0c0262c0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='홈'])[2]/following::h4[1]</value>
+      <webElementGuid>2e8a1c7b-6ed3-4126-9780-2730311c268a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='서류전형'])[1]/following::button[2]</value>
-      <webElementGuid>6bedce75-d352-4449-976d-647527cf4809</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='통계'])[1]/following::h4[1]</value>
+      <webElementGuid>124c32ff-1cc4-44c9-94de-2bc516f94c08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='서류전형'])[2]/preceding::button[1]</value>
-      <webElementGuid>d3e05948-5099-4c7b-80e3-f98cdd30b78a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='채용정보 수정'])[1]/preceding::h4[1]</value>
+      <webElementGuid>5938b3a9-5bb4-4771-a276-ddb06b470502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='알림설정'])[1]/preceding::h4[1]</value>
+      <webElementGuid>4780ffde-8ef4-4697-8191-7f04732508ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[김준영] 정량평가 테스트 공고명']/parent::*</value>
+      <webElementGuid>feb780f9-9da6-4345-a7d0-ce5c0de340ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/button[3]</value>
-      <webElementGuid>65e9d3e6-7fa0-4c6f-b6a3-c9386903ab9b</webElementGuid>
+      <value>//h4</value>
+      <webElementGuid>6d3e526c-4b98-40c3-9fd6-b4f8ceec6525</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'WAP-EMPL-0010-ScrnAddInterview' and (text() = '
-							면접전형
-						' or . = '
-							면접전형
-						')]</value>
-      <webElementGuid>e06f6ca3-e8fe-482d-a39f-15f08fc8e045</webElementGuid>
+      <value>//h4[@id = 'WAP-EMPL-0030-Title' and (text() = '[김준영] 정량평가 테스트 공고명' or . = '[김준영] 정량평가 테스트 공고명')]</value>
+      <webElementGuid>e48d132a-7cbe-4f71-a445-03fae37e4787</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

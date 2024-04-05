@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_</name>
+   <name>h2__2</name>
    <tag></tag>
-   <elementGuidId>97fcf0d5-f9fe-4162-bc94-fe43b9470286</elementGuidId>
+   <elementGuidId>b84c61a7-7648-4a78-8986-d862f150f9a8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#WAP-EMPL-0010-ScrnAddDocument</value>
+         <value>#WAP-EMPL-0030-SubTopTitle</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='WAP-EMPL-0010-ScrnAddDocument']</value>
+         <value>//h2[@id='WAP-EMPL-0030-SubTopTitle']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;서류전형&quot;i]</value>
+         <value>internal:role=heading[name=&quot;[아던트_계열사2] [김준영] 정량평가 테스트 공고명&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,109 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>a0afd5c0-83cc-442d-9d89-415207d491b3</webElementGuid>
+      <value>h2</value>
+      <webElementGuid>01c79611-2a7d-4150-a8aa-59fbf8afdc8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>base-btn type2__size-s</value>
-      <webElementGuid>bd4312f7-67cd-4778-9f75-21d12b49383b</webElementGuid>
+      <value>contents-header--title</value>
+      <webElementGuid>67c3e7a0-19db-4e60-8d1b-6d4b26733f02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>WAP-EMPL-0010-ScrnAddDocument</value>
-      <webElementGuid>1a987d69-e19b-4517-80c9-63f78c174f66</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>addSelection('document')</value>
-      <webElementGuid>f5131011-8593-4d78-bfdb-efb8b08c5081</webElementGuid>
+      <value>WAP-EMPL-0030-SubTopTitle</value>
+      <webElementGuid>7e512f91-0f70-449a-a0ce-f2986a2c229f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-							서류전형
-						</value>
-      <webElementGuid>d0070a02-c831-431f-b46b-23922d6cf117</webElementGuid>
+      <value>[아던트_계열사2] [김준영] 정량평가 테스트 공고명</value>
+      <webElementGuid>43b340e2-98ea-4b2e-8da5-4c45097830db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;WAP-EMPL-0010-ScrnAddDocument&quot;)</value>
-      <webElementGuid>93908d81-6ae6-41cc-86f8-4f5a446a219a</webElementGuid>
+      <value>id(&quot;WAP-EMPL-0030-SubTopTitle&quot;)</value>
+      <webElementGuid>9f0519db-6620-49ed-a74a-65c433afde8e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='WAP-EMPL-0010-ScrnAddDocument']</value>
-      <webElementGuid>427da2f8-33e3-4c6c-91c2-ac1f4794e43f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='addSelection']/div/div[2]/div/button</value>
-      <webElementGuid>f8ebb422-d20d-4053-8855-2e1e2a9346ee</webElementGuid>
+      <value>//h2[@id='WAP-EMPL-0030-SubTopTitle']</value>
+      <webElementGuid>187efbac-862b-4b4e-891b-85a31ef56deb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='전형 추가'])[1]/following::button[1]</value>
-      <webElementGuid>6dd4b3d0-1b96-4ef4-bf7f-ee766e1f00bf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='축소/확대 버튼'])[1]/following::h2[1]</value>
+      <webElementGuid>ea17135f-a102-4188-8bbe-c79002226e29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='전형설계'])[2]/following::button[1]</value>
-      <webElementGuid>9e2fe809-9d25-40c6-a86e-bac22632597c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='팝업테스트전용화면'])[1]/following::h2[1]</value>
+      <webElementGuid>86fabd61-66aa-4862-a334-226500905702</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='필기전형'])[1]/preceding::button[1]</value>
-      <webElementGuid>9e244eeb-5370-43ae-ad7b-29c9f0544501</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='선택하세요'])[1]/preceding::h2[1]</value>
+      <webElementGuid>8303777e-9602-4bf6-b37d-3e4e2f3499dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='선택하세요'])[2]/preceding::h2[1]</value>
+      <webElementGuid>9cf5ac22-7f4a-4665-ab6c-abae091fc4b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[아던트_계열사2] [김준영] 정량평가 테스트 공고명']/parent::*</value>
+      <webElementGuid>97cc4727-5aa2-419c-a063-b2d7469adaca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//section[2]/div[2]/div/div[2]/div/button</value>
-      <webElementGuid>d84bb348-71cf-414a-b2d3-0d82e903b46c</webElementGuid>
+      <value>//h2</value>
+      <webElementGuid>96d9ea31-8f1d-4d49-a5c6-d17be12d2dc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'WAP-EMPL-0010-ScrnAddDocument' and (text() = '
-							서류전형
-						' or . = '
-							서류전형
-						')]</value>
-      <webElementGuid>94a1971d-617e-4e54-8c13-2cd99db9b7d4</webElementGuid>
+      <value>//h2[@id = 'WAP-EMPL-0030-SubTopTitle' and (text() = '[아던트_계열사2] [김준영] 정량평가 테스트 공고명' or . = '[아던트_계열사2] [김준영] 정량평가 테스트 공고명')]</value>
+      <webElementGuid>0a4f45fa-e5de-4ca6-b62f-64472ceccbec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

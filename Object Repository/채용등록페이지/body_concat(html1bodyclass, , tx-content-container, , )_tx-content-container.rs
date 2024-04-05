@@ -60,7 +60,7 @@
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_- WISE SELECTION/iframe__tx_canvas_wysiwyg0</value>
+      <value>Object Repository/채용등록페이지/iframe__tx_canvas_wysiwyg0</value>
       <webElementGuid>7f7a799c-81d5-48f3-8b09-44ee657a7b7b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>

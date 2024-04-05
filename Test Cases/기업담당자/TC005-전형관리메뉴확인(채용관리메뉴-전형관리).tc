@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>전형관리 메뉴 작동 확인</description>
-   <name>TC005-전형관리메뉴확인</name>
+   <name>TC005-전형관리메뉴확인(채용관리메뉴-전형관리)</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>cff3cb8e-d941-4263-82bd-f72a5ba43f32</testCaseGuid>
