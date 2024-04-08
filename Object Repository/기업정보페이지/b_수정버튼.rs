@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_수정버튼</name>
+   <tag></tag>
+   <elementGuidId>a696f01f-00a4-496a-87fd-bf3b9251f285</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='기업 홈페이지'])[1]/following::b[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/div[@class=&quot;wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;contents&quot;]/div[@class=&quot;box-type1 relative-box&quot;]/div[@class=&quot;relative-box__pos1&quot;]/button[@class=&quot;base-btn type-icon__color1&quot;]/span[@class=&quot;base-icon icon-mod__size-s__fix&quot;]/b[1][count(. | //*[(text() = '수정' or . = '수정')]) = count(//*[(text() = '수정' or . = '수정')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;수정&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>8b8b8dc0-5cf6-4298-8d08-f8d29a69dd77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>수정</value>
+      <webElementGuid>2da357eb-3f5b-4f80-b330-0798891a5879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;contents&quot;]/div[@class=&quot;box-type1 relative-box&quot;]/div[@class=&quot;relative-box__pos1&quot;]/button[@class=&quot;base-btn type-icon__color1&quot;]/span[@class=&quot;base-icon icon-mod__size-s__fix&quot;]/b[1]</value>
+      <webElementGuid>d24e9b41-e80a-485c-a8d3-819fafb63042</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='기업 홈페이지'])[1]/following::b[1]</value>
+      <webElementGuid>d75755ec-586a-4c71-ae3b-8bfa071437dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='대표번호'])[1]/following::b[1]</value>
+      <webElementGuid>55b8ac6f-4d70-4b8a-98cf-ade02a1715b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='서비스 유형'])[1]/preceding::b[1]</value>
+      <webElementGuid>808a3529-7ad4-4d31-9b74-2fb24cf104e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='입사지원시스템'])[1]/preceding::b[1]</value>
+      <webElementGuid>ac66023e-4d9e-4c36-bc06-16368bef504d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>0685cdbf-b72d-4d40-87ac-1f0335dd531a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '수정' or . = '수정')]</value>
+      <webElementGuid>ec87ad18-9fa0-4daf-b59a-f6a51e56cb78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

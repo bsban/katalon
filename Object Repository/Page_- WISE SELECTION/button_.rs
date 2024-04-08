@@ -3,22 +3,22 @@
    <description></description>
    <name>button_</name>
    <tag></tag>
-   <elementGuidId>0169b15a-bd8b-492c-b231-ec2b9fe1e1e6</elementGuidId>
+   <elementGuidId>4071f21f-45f6-48a5-9c75-6ed3532f1dc9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.base-btn.type1__size-m</value>
+         <key>XPATH</key>
+         <value>//button[@onclick='windowOpen()']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <key>CSS</key>
+         <value>div.header__util > button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;관리자 로그인&quot;i]</value>
+         <value>internal:role=button[name=&quot;도움말&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,102 +29,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c58ff687-349c-458c-8666-b1d21dcb3eb5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>e9599428-d9a1-4134-a264-24865ed2bcf6</webElementGuid>
+      <webElementGuid>354a8af5-ee3f-49b4-8c43-498c2e19a542</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>base-btn type1__size-m</value>
-      <webElementGuid>70487213-8e97-4705-9c55-cc931038c8b3</webElementGuid>
+      <value>windowOpen()</value>
+      <webElementGuid>e4d4a99f-bfc5-40d3-87bc-3f5d41cf8a68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>관리자 로그인</value>
-      <webElementGuid>965fbe14-1812-4478-9f93-a701d845f0cc</webElementGuid>
+      <value>도움말</value>
+      <webElementGuid>bdb86aff-6956-428c-ac85-0989003bea24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;login-wrap&quot;]/form[@class=&quot;form-signin&quot;]/div[@class=&quot;login-wrap__box&quot;]/div[@class=&quot;content-mt5&quot;]/button[@class=&quot;base-btn type1__size-m&quot;]</value>
-      <webElementGuid>b9ad9455-91f9-4e72-aebd-820254648b2f</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;wrap&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header__inner&quot;]/div[@class=&quot;header__util&quot;]/button[1]</value>
+      <webElementGuid>fe7ddebc-0d16-4b14-aade-b351ceb5d471</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>6a275fd4-fc41-4f02-bd37-feb491fbd82d</webElementGuid>
+      <value>//button[@onclick='windowOpen()']</value>
+      <webElementGuid>4c670786-215c-48ec-aa7f-5d141d7a58cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='아이디저장'])[1]/following::button[1]</value>
-      <webElementGuid>aa9608f3-a2a7-4cbe-9c67-ada7514f561d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='슈퍼관리자'])[1]/following::button[1]</value>
+      <webElementGuid>a8726127-c858-47ab-94ff-41522b102ce6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='입력 삭제'])[2]/following::button[1]</value>
-      <webElementGuid>1003d53f-906d-464c-8524-7548cc316dab</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='키워드 삭제'])[1]/following::button[1]</value>
+      <webElementGuid>9017b378-9f3f-47d5-93e2-be8ac88231dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='크롬다운받기'])[1]/preceding::button[1]</value>
-      <webElementGuid>2201a808-f9ba-442a-95e4-dac5f63e6227</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='로그아웃'])[1]/preceding::button[1]</value>
+      <webElementGuid>ca35384f-9fa7-4600-958b-e69280b5e216</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='비밀번호 초기화'])[1]/preceding::button[1]</value>
-      <webElementGuid>e1b69642-eae5-4de2-b064-91f4ffca1ad7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='내정보 수정 : WAP-SYS-0110'])[1]/preceding::button[1]</value>
+      <webElementGuid>dd955fe9-133f-46df-b471-529e0452fcad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='관리자 로그인']/parent::*</value>
-      <webElementGuid>53184736-26a1-4e3b-9d53-7df77cbb14cf</webElementGuid>
+      <value>//*/text()[normalize-space(.)='도움말']/parent::*</value>
+      <webElementGuid>f8a6a95c-331c-4dcd-8ff7-5ca30b5e6534</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/button</value>
-      <webElementGuid>e51cb39d-9a72-4d1d-83b8-b7f75a068254</webElementGuid>
+      <value>//div[2]/button</value>
+      <webElementGuid>68a59d53-0dd6-436c-af37-a5de3a09c759</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = '관리자 로그인' or . = '관리자 로그인')]</value>
-      <webElementGuid>dee7787e-2750-471a-875a-9b0afa21daca</webElementGuid>
+      <value>//button[(text() = '도움말' or . = '도움말')]</value>
+      <webElementGuid>58ef4f3b-eca5-4ad0-8c68-1f708703054e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

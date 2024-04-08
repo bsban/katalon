@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__1</name>
+   <tag></tag>
+   <elementGuidId>4099bb3d-ae7f-42eb-b7f9-8068ba2f327c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='안내'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body.isLayerShow > div.layer-popup.type-modal.isShow > section.popup__container.isShow > div.popup__btn-wrap > button.base-btn.type1__size-m</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;확인&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c2a323a2-1398-4016-b650-7b9c0b129fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base-btn type1__size-m</value>
+      <webElementGuid>e6b6122c-9de2-436c-84a9-eed0b58de046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ref</name>
+      <type>Main</type>
+      <value>btnConfirm</value>
+      <webElementGuid>7cd03a34-a74b-49b3-a72f-797b0d3e66af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>확인</value>
+      <webElementGuid>435a0ec7-bf2b-4d72-8abc-c37e6c38758b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;isLayerShow&quot;]/div[@class=&quot;layer-popup type-modal isShow&quot;]/section[@class=&quot;popup__container isShow&quot;]/div[@class=&quot;popup__btn-wrap&quot;]/button[@class=&quot;base-btn type1__size-m&quot;]</value>
+      <webElementGuid>56453994-1420-4375-abec-e923c6c24f75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='안내'])[1]/following::button[1]</value>
+      <webElementGuid>f416f459-655e-45ac-a023-52c4d70abb30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer 영역입니다.'])[1]/following::button[1]</value>
+      <webElementGuid>3e110ec3-36c3-4ad7-889f-aee69747c5de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='닫기'])[4]/preceding::button[1]</value>
+      <webElementGuid>e96aec7e-140c-4d7e-97e0-ab1a3351ad07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='확인']/parent::*</value>
+      <webElementGuid>6eb3bc86-5bba-4ee5-825f-d3fd918ee313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/section/div[3]/button</value>
+      <webElementGuid>b373908f-ac64-4b41-8b5d-62ac70f810f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '확인' or . = '확인')]</value>
+      <webElementGuid>9d7d21b0-36f7-42d0-8f13-bae4fd17d0a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

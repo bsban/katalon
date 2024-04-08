@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>채용공고 등록시 이전채용 불러오기 기능 확인</description>
+   <name>TC-M-006-채용등록</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91e25cda-876f-4de9-b371-c019d8eff488</testCaseGuid>
+</TestCaseEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>349fca6c-dfe9-4f9b-bdc3-2537c15a0c36</webElementGuid>
+      <webElementGuid>44a7f127-2fa4-4cc0-be7b-7fc21742d061</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2f7c14f2-7419-49f3-aa5c-490878b606ba</webElementGuid>
+      <webElementGuid>0efc6fe4-f372-4c5b-9563-703244b7a638</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>userId</value>
-      <webElementGuid>a6d1643a-6dcc-4bf2-bfe1-5fa1cb78a87f</webElementGuid>
+      <webElementGuid>1bd1c089-7f93-4574-860f-2b63f7c2ee19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-txt</value>
-      <webElementGuid>4a3a7e4c-af4f-4091-ba7c-073a1a8d93c6</webElementGuid>
+      <webElementGuid>e3283456-092a-4835-b9c4-fdf70fa7fd4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>oninput</name>
       <type>Main</type>
       <value>inputValueChk()</value>
-      <webElementGuid>f2261b0a-fa53-4203-8617-26049cd2b9b4</webElementGuid>
+      <webElementGuid>1e39dbf9-2d7a-4f9e-96d7-faf501d42644</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>아이디를 입력하세요</value>
-      <webElementGuid>256a1ca0-aff4-4b27-9fc3-8a1cfd019597</webElementGuid>
+      <webElementGuid>97d93fad-568e-45af-bead-645ac174a131</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;login-wrap&quot;]/form[@class=&quot;form-signin&quot;]/div[@class=&quot;login-wrap__box&quot;]/div[@class=&quot;form-inner&quot;]/div[@class=&quot;input-box&quot;]/input[@class=&quot;input-txt&quot;]</value>
-      <webElementGuid>f60ad117-212e-424f-93a3-9c7f45099113</webElementGuid>
+      <webElementGuid>d0df0bc0-5c53-4674-ba8d-4aeb13e88767</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='userId']</value>
-      <webElementGuid>2550f004-6eb0-4b0d-985e-fea9b9f2530c</webElementGuid>
+      <webElementGuid>6a848641-03a8-4e2b-b485-1a24107e35e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>7eff1c36-731e-41e1-8d6d-667f1973435a</webElementGuid>
+      <webElementGuid>bb4cbf7a-feb7-4ec6-87a9-a22643424e00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'userId' and @placeholder = '아이디를 입력하세요']</value>
-      <webElementGuid>d4d0eb5f-d3d3-4a13-b1c8-11fc20280155</webElementGuid>
+      <webElementGuid>84a3366e-017e-4796-a9ca-b81f1621ac0a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_</name>
+   <name>span__1</name>
    <tag></tag>
-   <elementGuidId>0169b15a-bd8b-492c-b231-ec2b9fe1e1e6</elementGuidId>
+   <elementGuidId>67479ae4-af6d-44ba-bce1-c303b309cc3d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.base-btn.type1__size-m</value>
+         <key>XPATH</key>
+         <value>//span[@id='treeDemo_4_span']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <key>CSS</key>
+         <value>#treeDemo_4_span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;관리자 로그인&quot;i]</value>
+         <value>internal:attr=[title=&quot;채용관리&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>c58ff687-349c-458c-8666-b1d21dcb3eb5</webElementGuid>
+      <value>span</value>
+      <webElementGuid>5d45eb81-695b-43e1-a263-d3caf05f755e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>e9599428-d9a1-4134-a264-24865ed2bcf6</webElementGuid>
+      <value>treeDemo_4_span</value>
+      <webElementGuid>cc0eecd6-72ce-4eff-94e5-03f7632a1e1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>base-btn type1__size-m</value>
-      <webElementGuid>70487213-8e97-4705-9c55-cc931038c8b3</webElementGuid>
+      <value>node_name</value>
+      <webElementGuid>1fcd1558-287f-4f16-bc02-7ecbc22b471e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>관리자 로그인</value>
-      <webElementGuid>965fbe14-1812-4478-9f93-a701d845f0cc</webElementGuid>
+      <value>채용관리</value>
+      <webElementGuid>b1bd9c33-48cb-41ab-9c09-766586139b31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;login-wrap&quot;]/form[@class=&quot;form-signin&quot;]/div[@class=&quot;login-wrap__box&quot;]/div[@class=&quot;content-mt5&quot;]/button[@class=&quot;base-btn type1__size-m&quot;]</value>
-      <webElementGuid>b9ad9455-91f9-4e72-aebd-820254648b2f</webElementGuid>
+      <value>id(&quot;treeDemo_4_span&quot;)</value>
+      <webElementGuid>bb12f9ee-2756-46bc-9ff0-cd50036eb52c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>6a275fd4-fc41-4f02-bd37-feb491fbd82d</webElementGuid>
+      <value>//span[@id='treeDemo_4_span']</value>
+      <webElementGuid>18e0860f-ba7d-4095-96b4-a1b6cc83444e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='treeDemo_4_a']/span[2]</value>
+      <webElementGuid>1452bcdc-883d-4f06-af34-6f46f85e755b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='아이디저장'])[1]/following::button[1]</value>
-      <webElementGuid>aa9608f3-a2a7-4cbe-9c67-ada7514f561d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='기업관리'])[4]/following::span[3]</value>
+      <webElementGuid>18ae37e8-4d97-4f82-b54a-3355e19666cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='입력 삭제'])[2]/following::button[1]</value>
-      <webElementGuid>1003d53f-906d-464c-8524-7548cc316dab</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='기업관리'])[3]/following::span[6]</value>
+      <webElementGuid>6c32b65f-b4c7-498e-9ef1-bafe91842478</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='크롬다운받기'])[1]/preceding::button[1]</value>
-      <webElementGuid>2201a808-f9ba-442a-95e4-dac5f63e6227</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='콘텐츠관리'])[2]/preceding::span[3]</value>
+      <webElementGuid>2d37ea26-8ad2-45d4-8f65-565b06aa2392</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='비밀번호 초기화'])[1]/preceding::button[1]</value>
-      <webElementGuid>e1b69642-eae5-4de2-b064-91f4ffca1ad7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='관리자 로그인']/parent::*</value>
-      <webElementGuid>53184736-26a1-4e3b-9d53-7df77cbb14cf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='입사지원서'])[2]/preceding::span[6]</value>
+      <webElementGuid>977aa0f0-da58-44ad-938a-83dc2d836729</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/button</value>
-      <webElementGuid>e51cb39d-9a72-4d1d-83b8-b7f75a068254</webElementGuid>
+      <value>//li/ul/li/ul/li[2]/a/span[2]</value>
+      <webElementGuid>7d61b536-dbc7-42d5-955e-3c8f3af6e8f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = '관리자 로그인' or . = '관리자 로그인')]</value>
-      <webElementGuid>dee7787e-2750-471a-875a-9b0afa21daca</webElementGuid>
+      <value>//span[@id = 'treeDemo_4_span' and (text() = '채용관리' or . = '채용관리')]</value>
+      <webElementGuid>c95fbcce-f05b-47f9-afe5-dba0a20466f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

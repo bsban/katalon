@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-M-001_내부관리자로그인</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa17fe32-aa24-4111-8751-9f7ad6fbcba6</testCaseGuid>
+</TestCaseEntity>

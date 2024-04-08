@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>기업홈 대시보드에서 특정 공고 '자세히보기'를 눌렀을 때 해당 공고의 내용이 조회되는지 확인</description>
-   <name>TC004-채용공고확인</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>b3ffc1c1-c817-4efd-aebc-6e826cb6e4b3</testCaseGuid>
-</TestCaseEntity>
