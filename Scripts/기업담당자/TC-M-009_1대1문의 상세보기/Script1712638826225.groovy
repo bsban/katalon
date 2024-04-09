@@ -18,13 +18,22 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('슈퍼관리자/TC-S-002_슈퍼관리자로그인'), [:], FailureHandling.STOP_ON_FAILURE)
+//String listText
+
+WebUI.callTestCase(findTestCase('기업담당자/TC-M-001-기업담당자로그인'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/1대1문의/button_'))
+WebUI.click(findTestObject('Object Repository/1대1문의/span_'))
 
-WebUI.switchToWindowTitle('도움말')
+WebUI.click(findTestObject('Object Repository/1대1문의/a_'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Top메뉴/p_'), 0)
+WebUI.click(findTestObject('Object Repository/1대1문의/button_11'))
+
+//WebUI.verifyElementText(findTestObject('Object Repository/Page_- WISE SELECTION/a__1'), '내용테스트입니다')
+String listText = WebUI.getText(findTestObject('Object Repository/1대1문의/a__1'))
+
+WebUI.click(findTestObject('Object Repository/1대1문의/a__1'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/1대1문의/h3_'), listText)
 

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_</name>
+   <name>th_</name>
    <tag></tag>
-   <elementGuidId>43190332-fcf8-48e1-a740-4f62fe52af19</elementGuidId>
+   <elementGuidId>35ae3c22-4767-4b4e-b2a9-bf144cadbd83</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//table[@id='qnaTable']/thead/tr/th[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>section.popup__container.popup__size-l.isShow > button.btn-close</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;닫기&quot;i]</value>
+         <value>internal:role=columnheader[name=&quot;제목&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>16af83ad-2800-487d-9c7c-cd5b502084cd</webElementGuid>
+      <value>th</value>
+      <webElementGuid>bcf75bb9-d5f4-4a66-8123-897a2e15e1a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>b801e6b8-c48e-4331-b03d-a01a68a30fb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn-close</value>
-      <webElementGuid>b1a32cf6-762e-4feb-ace7-d26639d3660f</webElementGuid>
+      <value>dt-head-center ui-state-default sorting_disabled</value>
+      <webElementGuid>096dffb3-0311-4afd-a6c8-f79de9971d75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>rowspan</name>
       <type>Main</type>
-      <value>WAP_ETPR_0140.hide()</value>
-      <webElementGuid>580af3d3-fc72-4d0b-8c33-9f527cea3227</webElementGuid>
+      <value>1</value>
+      <webElementGuid>e312d337-81c8-472b-aa49-d10efe7faa7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>5048616f-79d4-4d5d-97d7-e885d4a770d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>닫기</value>
-      <webElementGuid>bf8f1db3-551a-497a-945c-724d39694e79</webElementGuid>
+      <value>제목</value>
+      <webElementGuid>defb5357-7e3b-46ae-b267-70143e65c3f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;WAP-ETPR-0130&quot;)/div[1]/div[3]/div[@class=&quot;layer-popup type-modal isShow&quot;]/section[@class=&quot;popup__container popup__size-l isShow&quot;]/button[@class=&quot;btn-close&quot;]</value>
-      <webElementGuid>1387d027-965a-4e64-842a-f05708dcbe09</webElementGuid>
+      <value>id(&quot;qnaTable&quot;)/thead[1]/tr[1]/th[@class=&quot;dt-head-center ui-state-default sorting_disabled&quot;]</value>
+      <webElementGuid>a5dcee7b-c443-46bb-a99f-2e349d091379</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@onclick='WAP_ETPR_0140.hide()']</value>
-      <webElementGuid>e3c9fe72-183e-4b3f-a926-d384a2905609</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='WAP-ETPR-0130']/div/div[3]/div/section/button</value>
-      <webElementGuid>3bfa951e-c0c7-4ef8-8e9a-4684b9546f31</webElementGuid>
+      <value>//table[@id='qnaTable']/thead/tr/th[3]</value>
+      <webElementGuid>5c9c3800-cedf-4e19-ba27-f78ab53b7eea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='답변달기'])[1]/following::button[1]</value>
-      <webElementGuid>74c8aa75-ef07-4189-9f06-c06b483796db</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[3]/following::th[1]</value>
+      <webElementGuid>af6b6c5c-774a-4ef7-b892-2c9d4a048dc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='수정'])[4]/following::button[2]</value>
-      <webElementGuid>875a4a43-8414-4a53-b70f-1b5ba11c9bad</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='선택'])[17]/following::th[2]</value>
+      <webElementGuid>4fc576a6-99a5-434a-93f7-322e36126223</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='응답중'])[1]/preceding::button[1]</value>
-      <webElementGuid>6404974b-e63d-45eb-88a5-29411b1dbfd8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='조회수'])[3]/preceding::th[1]</value>
+      <webElementGuid>e4bd2332-a502-4092-99c0-a40752a0278f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='사진'])[2]/preceding::button[1]</value>
-      <webElementGuid>a2634818-1172-40f6-b21a-3c5e6a3a8f11</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='문의정보'])[1]/preceding::th[2]</value>
+      <webElementGuid>1bfe7173-e8a5-462d-9310-58bc447f5435</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div/div[3]/div/section/button</value>
-      <webElementGuid>dfe79a12-395c-4858-a934-1af6c5fa8c4e</webElementGuid>
+      <value>//div[6]/div/div/div[3]/div/div/table/thead/tr/th[3]</value>
+      <webElementGuid>26c14cbb-a152-4ec7-985f-76b356d48102</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = '닫기' or . = '닫기')]</value>
-      <webElementGuid>035a1882-e284-4c0e-9d43-9929458fa024</webElementGuid>
+      <value>//th[(text() = '제목' or . = '제목')]</value>
+      <webElementGuid>7a73f210-812f-4b87-a122-55cbb756cdc2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

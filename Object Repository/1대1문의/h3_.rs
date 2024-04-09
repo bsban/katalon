@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_</name>
+   <name>h3_</name>
    <tag></tag>
-   <elementGuidId>43190332-fcf8-48e1-a740-4f62fe52af19</elementGuidId>
+   <elementGuidId>70199cfc-773f-40d9-9177-3e0f2c19b4d7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//h3[@id='txtQnaPopupTitle']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>section.popup__container.popup__size-l.isShow > button.btn-close</value>
+         <value>#txtQnaPopupTitle</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;닫기&quot;i]</value>
+         <value>internal:role=heading[name=&quot;내용테스트입니다&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>16af83ad-2800-487d-9c7c-cd5b502084cd</webElementGuid>
+      <value>h3</value>
+      <webElementGuid>0327e552-f1c8-423b-affe-d59066777f24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn-close</value>
-      <webElementGuid>b1a32cf6-762e-4feb-ace7-d26639d3660f</webElementGuid>
+      <value>title-sub</value>
+      <webElementGuid>18957352-2701-4efd-a50b-2397972a1dd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>id</name>
       <type>Main</type>
-      <value>WAP_ETPR_0140.hide()</value>
-      <webElementGuid>580af3d3-fc72-4d0b-8c33-9f527cea3227</webElementGuid>
+      <value>txtQnaPopupTitle</value>
+      <webElementGuid>563cf924-01e7-4018-8c3d-cb417c175243</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>닫기</value>
-      <webElementGuid>bf8f1db3-551a-497a-945c-724d39694e79</webElementGuid>
+      <value>내용테스트입니다</value>
+      <webElementGuid>40deb65c-0867-4c2b-acf4-7f697fd80341</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;WAP-ETPR-0130&quot;)/div[1]/div[3]/div[@class=&quot;layer-popup type-modal isShow&quot;]/section[@class=&quot;popup__container popup__size-l isShow&quot;]/button[@class=&quot;btn-close&quot;]</value>
-      <webElementGuid>1387d027-965a-4e64-842a-f05708dcbe09</webElementGuid>
+      <value>id(&quot;txtQnaPopupTitle&quot;)</value>
+      <webElementGuid>57823166-bbd6-48d8-ae58-a6e887f0f1cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@onclick='WAP_ETPR_0140.hide()']</value>
-      <webElementGuid>e3c9fe72-183e-4b3f-a926-d384a2905609</webElementGuid>
+      <value>//h3[@id='txtQnaPopupTitle']</value>
+      <webElementGuid>0e9f4948-3c2a-418e-9b11-3c68d8b373df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='WAP-ETPR-0130']/div/div[3]/div/section/button</value>
-      <webElementGuid>3bfa951e-c0c7-4ef8-8e9a-4684b9546f31</webElementGuid>
+      <value>//div[@id='WAP-ETPR-0130']/div/div[3]/div/section/div[2]/div/h3</value>
+      <webElementGuid>2a774f8d-b34d-4eb6-9168-01e248656c41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='답변달기'])[1]/following::button[1]</value>
-      <webElementGuid>74c8aa75-ef07-4189-9f06-c06b483796db</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='미응답'])[1]/following::h3[1]</value>
+      <webElementGuid>9e99aafc-ad69-4cf7-a8bc-d68670a053e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='수정'])[4]/following::button[2]</value>
-      <webElementGuid>875a4a43-8414-4a53-b70f-1b5ba11c9bad</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='응답완료'])[1]/following::h3[1]</value>
+      <webElementGuid>e5b95183-3039-415e-8546-0b9331a436c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='응답중'])[1]/preceding::button[1]</value>
-      <webElementGuid>6404974b-e63d-45eb-88a5-29411b1dbfd8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='내용테스트입니다'])[3]/preceding::h3[1]</value>
+      <webElementGuid>0c3f6504-0d9c-43da-8516-0be38e508fc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='사진'])[2]/preceding::button[1]</value>
-      <webElementGuid>a2634818-1172-40f6-b21a-3c5e6a3a8f11</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='수정'])[4]/preceding::h3[1]</value>
+      <webElementGuid>b667491d-8c24-467d-94bc-0e19db497656</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div/div[3]/div/section/button</value>
-      <webElementGuid>dfe79a12-395c-4858-a934-1af6c5fa8c4e</webElementGuid>
+      <value>//div[6]/div/div[3]/div/section/div[2]/div/h3</value>
+      <webElementGuid>cb6a1bce-1bf0-494e-a71d-64b2513e1b61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = '닫기' or . = '닫기')]</value>
-      <webElementGuid>035a1882-e284-4c0e-9d43-9929458fa024</webElementGuid>
+      <value>//h3[@id = 'txtQnaPopupTitle' and (text() = '내용테스트입니다' or . = '내용테스트입니다')]</value>
+      <webElementGuid>25b77fc4-0bb9-4141-8f28-b077d5653fd7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

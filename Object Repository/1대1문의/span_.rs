@@ -3,7 +3,7 @@
    <description></description>
    <name>span_</name>
    <tag></tag>
-   <elementGuidId>e9e60ef4-0c9d-40a2-96eb-944628b92c74</elementGuidId>
+   <elementGuidId>b36e0363-d3b1-48ef-8723-ad8fd977ca15</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4da290cd-bf3c-49fc-a369-cb2d5cd0ef67</webElementGuid>
+      <webElementGuid>05ed1e68-0a95-49e6-8f43-3d040e7159a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>기업정보</value>
-      <webElementGuid>d8b377d8-4fd9-4c19-be85-2b317576f54d</webElementGuid>
+      <webElementGuid>35750190-9dd6-4c3f-9298-fadcf32b4a4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;wrap&quot;]/div[@class=&quot;container&quot;]/nav[@class=&quot;snb&quot;]/ul[@class=&quot;snb__menu&quot;]/li[5]/button[@class=&quot;snb__depth1--btn icon6 has-child&quot;]/span[1]</value>
-      <webElementGuid>33366e47-3d04-428a-b8d5-22e160bffe8e</webElementGuid>
+      <webElementGuid>6a211761-d4fe-43ed-a625-518d105c9f07</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='만족도조사'])[1]/following::span[1]</value>
-      <webElementGuid>715d3e89-f5ae-474d-9d4b-2b32296e41d4</webElementGuid>
+      <webElementGuid>860da1c0-dc93-4612-8f13-01060c0cd3e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='평가척도'])[1]/following::span[1]</value>
-      <webElementGuid>c8ba6d69-7831-40de-a7a8-ed1947d4835f</webElementGuid>
+      <webElementGuid>b4f8c5f1-0b9b-44a2-9b9f-d0418aaeb329</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='기업정보'])[2]/preceding::span[1]</value>
-      <webElementGuid>6a01ba0d-4c78-4901-b505-a18119523690</webElementGuid>
+      <webElementGuid>5a88c7bd-f88f-42ec-8b9a-eaa15271cfb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='사용자'])[1]/preceding::span[1]</value>
-      <webElementGuid>a6651e3b-8a58-450c-b123-f0b7cf4e72ee</webElementGuid>
+      <webElementGuid>42a260db-0bce-48a5-aff2-2a72526db859</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='기업정보']/parent::*</value>
-      <webElementGuid>c1f3ef29-2fd8-43f4-8816-eb21dab1fca2</webElementGuid>
+      <webElementGuid>0f82c2db-5f3f-46ca-8c6a-8227233ea4f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/button/span</value>
-      <webElementGuid>6bfc4a41-9535-44b9-a0f4-9b86072269a7</webElementGuid>
+      <webElementGuid>88b355dd-76e4-45f9-a652-c74815839a9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '기업정보' or . = '기업정보')]</value>
-      <webElementGuid>978ab849-58fc-492d-a210-11be3c8e8815</webElementGuid>
+      <webElementGuid>0358a395-ddda-4924-a405-88d3a8bc50d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

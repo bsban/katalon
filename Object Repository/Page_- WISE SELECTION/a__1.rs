@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_</name>
+   <name>a__1</name>
    <tag></tag>
-   <elementGuidId>2a429639-ed14-4c3f-9030-72685ce0ce53</elementGuidId>
+   <elementGuidId>d8604d7a-a4dd-4bae-bc01-359e66012622</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='snbSubMenu9']/ul/li[3]/a</value>
+         <value>//table[@id='qnaTable']/tbody/tr/td[3]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#snbSubMenu9 > ul > li:nth-of-type(3) > a</value>
+         <value>#qnaTable > tbody > tr.odd > td.dt-head-center > a.point-color</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;채용홈페이지&quot;i]</value>
+         <value>internal:role=link[name=&quot;내용테스트입니다&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,113 +29,118 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ed7c05ad-cd54-48de-a238-649af9c06442</webElementGuid>
+      <webElementGuid>631658a3-b5b6-4920-8547-783c9252d7ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>point-color</value>
+      <webElementGuid>4d5f00e8-06cd-44f1-a29a-a554c6cef5eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/mgt/recruitSite/basicInfo/basicInfo.do?menuId=90000300</value>
-      <webElementGuid>32387694-8d8c-4a1d-8f7a-7d9178209883</webElementGuid>
+      <value>javascript:goQnaDetailPage('973', 'N')</value>
+      <webElementGuid>51ef15e6-ef23-4a80-95b2-d7e3a6a887cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>채용홈페이지
-            </value>
-      <webElementGuid>028d0e1a-04ee-4cc5-974b-28fe93ff626b</webElementGuid>
+      <value>내용테스트입니다</value>
+      <webElementGuid>730938cb-db56-49d6-b205-30b406fe8f82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;snbSubMenu9&quot;)/ul[1]/li[3]/a[1]</value>
-      <webElementGuid>00d829b6-e213-4abe-a852-3c67f0e8bdc2</webElementGuid>
+      <value>id(&quot;qnaTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;dt-head-center&quot;]/a[@class=&quot;point-color&quot;]</value>
+      <webElementGuid>0826ceac-b926-4b57-9ab2-4fbfd175c084</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='snbSubMenu9']/ul/li[3]/a</value>
-      <webElementGuid>209d28ad-fcc8-4616-bc76-811151756cca</webElementGuid>
+      <value>//table[@id='qnaTable']/tbody/tr/td[3]/a</value>
+      <webElementGuid>f24ef4a9-e995-43ec-8bee-7cdfccfe23ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'채용홈페이지')]</value>
-      <webElementGuid>55fe1059-f3be-4579-8dad-c073d515bda5</webElementGuid>
+      <value>//a[contains(text(),'내용테스트입니다')]</value>
+      <webElementGuid>b6b61c31-f6bf-4c27-8cbc-65f8f8b47540</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='사용자'])[1]/following::a[1]</value>
-      <webElementGuid>d1f19456-feeb-4454-bfb6-888cbc9f6019</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='선택'])[18]/following::a[1]</value>
+      <webElementGuid>cfcd4bc3-8028-4c91-a011-b04f0a108d1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='기업정보'])[2]/following::a[2]</value>
-      <webElementGuid>496a6d32-de5c-45c8-8012-5568994a7faf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='최종답변정보'])[1]/following::a[1]</value>
+      <webElementGuid>8ec8a677-5352-44da-a9a0-e360de5af0d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='개인정보삭제기준'])[1]/preceding::a[1]</value>
-      <webElementGuid>d2d5557a-387f-4fcd-a8f8-ef321d94bf20</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='공승민'])[1]/preceding::a[1]</value>
+      <webElementGuid>90708c63-5252-41a6-b859-7228fb66d57e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='발송이력'])[1]/preceding::a[2]</value>
-      <webElementGuid>2bc69c6e-5668-4863-a9f2-4bd6bd8cd421</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='선택'])[19]/preceding::a[1]</value>
+      <webElementGuid>31d03155-c6de-4c41-9300-737c1dbc5a99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='채용홈페이지']/parent::*</value>
-      <webElementGuid>672cbec8-5ad9-4414-8682-e47fc21f787e</webElementGuid>
+      <value>//*/text()[normalize-space(.)='내용테스트입니다']/parent::*</value>
+      <webElementGuid>10d6ac08-ad2e-49d5-b024-e356ddc0cb27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/mgt/recruitSite/basicInfo/basicInfo.do?menuId=90000300')]</value>
-      <webElementGuid>135fbb2b-f7ce-4b3b-9c09-8f12843766f5</webElementGuid>
+      <value>//a[contains(@href, &quot;javascript:goQnaDetailPage('973', 'N')&quot;)]</value>
+      <webElementGuid>89bef462-db0c-4762-b1ee-5bd2f7c3df78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/div/ul/li[3]/a</value>
-      <webElementGuid>bbb31051-118a-447c-aa58-ac1afd1b0c23</webElementGuid>
+      <value>//div[6]/div/div/div[3]/div/div/table/tbody/tr/td[3]/a</value>
+      <webElementGuid>cc165397-74f2-43df-8b14-d5455e5045a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/mgt/recruitSite/basicInfo/basicInfo.do?menuId=90000300' and (text() = '채용홈페이지
-            ' or . = '채용홈페이지
-            ')]</value>
-      <webElementGuid>e0808390-f4ae-42bc-b07e-174e1c6aa7b0</webElementGuid>
+      <value>//a[@href = concat(&quot;javascript:goQnaDetailPage(&quot; , &quot;'&quot; , &quot;973&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;N&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = '내용테스트입니다' or . = '내용테스트입니다')]</value>
+      <webElementGuid>27dfe1e3-9b78-40fa-9bf0-d8193bcbc755</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

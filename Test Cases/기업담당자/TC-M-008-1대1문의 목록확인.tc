@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>연습용</description>
+   <name>TC-M-008-1대1문의 목록확인</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e26542a9-26c9-43f7-9413-2436342ae874</testCaseGuid>
+</TestCaseEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>a_</name>
    <tag></tag>
-   <elementGuidId>2a429639-ed14-4c3f-9030-72685ce0ce53</elementGuidId>
+   <elementGuidId>9d34b6b9-7497-4249-8782-78d7ee4c0bdf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ed7c05ad-cd54-48de-a238-649af9c06442</webElementGuid>
+      <webElementGuid>62277893-e2d2-4623-bed7-657ec48259c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/mgt/recruitSite/basicInfo/basicInfo.do?menuId=90000300</value>
-      <webElementGuid>32387694-8d8c-4a1d-8f7a-7d9178209883</webElementGuid>
+      <webElementGuid>bc6ef235-cb1c-4833-80e4-f46d16edd973</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <type>Main</type>
       <value>채용홈페이지
             </value>
-      <webElementGuid>028d0e1a-04ee-4cc5-974b-28fe93ff626b</webElementGuid>
+      <webElementGuid>cacef5de-b6c7-46d5-914b-cc6de4709fb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;snbSubMenu9&quot;)/ul[1]/li[3]/a[1]</value>
-      <webElementGuid>00d829b6-e213-4abe-a852-3c67f0e8bdc2</webElementGuid>
+      <webElementGuid>53625628-7694-4236-ad41-49fba4a1dc44</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='snbSubMenu9']/ul/li[3]/a</value>
-      <webElementGuid>209d28ad-fcc8-4616-bc76-811151756cca</webElementGuid>
+      <webElementGuid>ce546836-6ac3-4ffe-80de-d2fb78c6a4ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'채용홈페이지')]</value>
-      <webElementGuid>55fe1059-f3be-4579-8dad-c073d515bda5</webElementGuid>
+      <webElementGuid>45515cab-6554-49ee-b369-8fed99ed4f0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='사용자'])[1]/following::a[1]</value>
-      <webElementGuid>d1f19456-feeb-4454-bfb6-888cbc9f6019</webElementGuid>
+      <webElementGuid>5ce4fb07-71de-4dfa-9ff6-53b10de16d14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='기업정보'])[2]/following::a[2]</value>
-      <webElementGuid>496a6d32-de5c-45c8-8012-5568994a7faf</webElementGuid>
+      <webElementGuid>acc0f4bc-539a-4bc8-b6e7-f9232c51ea19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='개인정보삭제기준'])[1]/preceding::a[1]</value>
-      <webElementGuid>d2d5557a-387f-4fcd-a8f8-ef321d94bf20</webElementGuid>
+      <webElementGuid>220319e6-00cb-4394-97cc-f36e1aa6cf73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='발송이력'])[1]/preceding::a[2]</value>
-      <webElementGuid>2bc69c6e-5668-4863-a9f2-4bd6bd8cd421</webElementGuid>
+      <webElementGuid>12cbe138-3701-4589-a476-667feb67e146</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='채용홈페이지']/parent::*</value>
-      <webElementGuid>672cbec8-5ad9-4414-8682-e47fc21f787e</webElementGuid>
+      <webElementGuid>dbd5b153-c5d0-4a02-a3c8-f58cf501d9a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/mgt/recruitSite/basicInfo/basicInfo.do?menuId=90000300')]</value>
-      <webElementGuid>135fbb2b-f7ce-4b3b-9c09-8f12843766f5</webElementGuid>
+      <webElementGuid>a90c48c9-a1a2-4405-9cca-a93ed214a732</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/div/ul/li[3]/a</value>
-      <webElementGuid>bbb31051-118a-447c-aa58-ac1afd1b0c23</webElementGuid>
+      <webElementGuid>fe2392b8-1ab8-4088-821e-b8ffcef98ce8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,6 +136,6 @@
       <value>//a[@href = '/mgt/recruitSite/basicInfo/basicInfo.do?menuId=90000300' and (text() = '채용홈페이지
             ' or . = '채용홈페이지
             ')]</value>
-      <webElementGuid>e0808390-f4ae-42bc-b07e-174e1c6aa7b0</webElementGuid>
+      <webElementGuid>20228771-12d7-4821-a3b5-d7826abe027e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
