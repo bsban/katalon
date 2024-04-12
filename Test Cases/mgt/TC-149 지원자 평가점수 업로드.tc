@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-149 지원자 평가점수 업로드</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>483b13eb-6989-4f2e-a3f5-07c4102c02d9</testCaseGuid>
+</TestCaseEntity>

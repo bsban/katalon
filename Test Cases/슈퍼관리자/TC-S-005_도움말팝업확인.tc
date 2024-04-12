@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>연습용</description>
-   <name>TC-S-005_도움말팝업확인</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>efbb3389-595a-48e7-a1ae-ae5cf5102097</testCaseGuid>
-</TestCaseEntity>

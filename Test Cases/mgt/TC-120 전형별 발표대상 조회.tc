@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-120 전형별 발표대상 조회</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c23509e8-bcdc-4194-82c1-9135487c277b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-073 권한 삭제</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8c535eb-459a-4412-94c4-66d8e7f324c3</testCaseGuid>
+</TestCaseEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>정상적인 기업담당자 id로 로그인하여 기업 대시보드가 표출되는지 확인</description>
-   <name>TC-M-001-기업담당자로그인</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>8ed48058-d3a7-4124-bbc8-a812ba4049ab</testCaseGuid>
-</TestCaseEntity>

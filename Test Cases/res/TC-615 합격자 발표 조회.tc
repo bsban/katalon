@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-615 합격자 발표 조회</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df10bce8-f226-4398-a62c-288bbccb2d32</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-112 전형별별 지원자 및 합격자 수 확인</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3df5389-1494-4754-a985-6df450a84484</testCaseGuid>
+</TestCaseEntity>

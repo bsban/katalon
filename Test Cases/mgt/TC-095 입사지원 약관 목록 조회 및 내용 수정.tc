@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-095 입사지원 약관 목록 조회 및 내용 수정</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acdb208c-88ca-48e5-b96c-b4c78314feee</testCaseGuid>
+</TestCaseEntity>

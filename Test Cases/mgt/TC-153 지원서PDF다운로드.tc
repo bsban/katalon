@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-153 지원서PDF다운로드</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61788cc3-a70d-4b41-86f6-2ade040fd088</testCaseGuid>
+</TestCaseEntity>

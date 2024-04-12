@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>기업담당자가 로그인하여 해다 회사의 기업정보를 수정하는 기능을 확인</description>
-   <name>TC-M-007-기업정보수정</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>650fedeb-8e1f-404e-86bb-a5250df92386</testCaseGuid>
-</TestCaseEntity>

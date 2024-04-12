@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-110-04 관련링크 확인(지원자목록페이지)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3755809-df60-4674-96ad-5cfe16416aac</testCaseGuid>
+</TestCaseEntity>

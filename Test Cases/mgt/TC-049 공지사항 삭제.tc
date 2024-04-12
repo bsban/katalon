@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-049 공지사항 삭제</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccf471e1-0266-4342-9ad0-1c51f993fb0c</testCaseGuid>
+</TestCaseEntity>

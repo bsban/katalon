@@ -22,7 +22,7 @@ String listText
 
 String titleText
 
-WebUI.callTestCase(findTestCase('기업담당자/TC-M-001-기업담당자로그인'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('mgt/TC-003 유효한 기업관리자 로그인 정보로 로그인하는 경우'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.maximizeWindow()
 

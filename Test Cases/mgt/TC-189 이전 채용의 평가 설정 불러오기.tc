@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-189 이전 채용의 평가 설정 불러오기</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bca344e2-3cdf-4e01-aace-fe2c40150c92</testCaseGuid>
+</TestCaseEntity>

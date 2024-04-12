@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-611 입사지원서 양식 조회</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>031851d4-0cd1-4b09-9b14-fe31aa16dbef</testCaseGuid>
+</TestCaseEntity>

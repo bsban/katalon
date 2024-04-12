@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-080 대시보드 화면 확인</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcbe3fec-e5c7-4c80-8fae-002d513a7ac0</testCaseGuid>
+</TestCaseEntity>

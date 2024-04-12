@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-041 PDF 파일 업로드 기능</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6576b9ca-801e-4471-83aa-452cadc223e9</testCaseGuid>
+</TestCaseEntity>

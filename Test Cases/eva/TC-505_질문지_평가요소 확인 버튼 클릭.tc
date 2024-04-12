@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-505_질문지_평가요소 확인 버튼 클릭</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a47b1ae-72d8-41d0-bbab-7c9a518ff1c8</testCaseGuid>
+</TestCaseEntity>

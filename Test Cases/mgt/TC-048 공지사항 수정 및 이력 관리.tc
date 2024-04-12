@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-048 공지사항 수정 및 이력 관리</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f1767ab-97de-4ab7-a5db-1969fc039f60</testCaseGuid>
+</TestCaseEntity>

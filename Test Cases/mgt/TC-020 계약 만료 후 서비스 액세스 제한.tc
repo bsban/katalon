@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-020 계약 만료 후 서비스 액세스 제한</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad3a5b72-17c5-4317-a993-889e4490919a</testCaseGuid>
+</TestCaseEntity>

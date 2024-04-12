@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-036 기업관리자로 로그인하여 표준형 복사</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd4c2af0-72bc-4958-9b72-2794652bef10</testCaseGuid>
+</TestCaseEntity>

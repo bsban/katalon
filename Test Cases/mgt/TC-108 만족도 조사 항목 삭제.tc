@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-108 만족도 조사 항목 삭제</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad947898-c7f6-4cb9-8adf-51f05582ec02</testCaseGuid>
+</TestCaseEntity>

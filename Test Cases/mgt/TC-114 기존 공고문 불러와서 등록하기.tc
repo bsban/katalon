@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-114 기존 공고문 불러와서 등록하기</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f96486df-79d1-4064-b735-d02b0dc4632f</testCaseGuid>
+</TestCaseEntity>

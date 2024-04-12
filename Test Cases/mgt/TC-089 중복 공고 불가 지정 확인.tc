@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-089 중복 공고 불가 지정 확인</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55c30024-7716-4a5c-8c2c-085c66d52350</testCaseGuid>
+</TestCaseEntity>

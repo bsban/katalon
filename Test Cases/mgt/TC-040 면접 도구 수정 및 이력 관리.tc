@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-040 면접 도구 수정 및 이력 관리</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b82e1e0b-2a1a-4d8f-9ed1-996132541896</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-082 채용 공고 목록 확인</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af8bef10-7c32-4668-9c3e-38f1ea96ccb3</testCaseGuid>
+</TestCaseEntity>

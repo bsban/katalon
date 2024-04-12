@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-083 채용 정보 수정 링크 확인</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ff48efd-e5fd-4712-9116-369dae21b2bb</testCaseGuid>
+</TestCaseEntity>

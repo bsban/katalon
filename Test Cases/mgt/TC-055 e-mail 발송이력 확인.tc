@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-055 e-mail 발송이력 확인</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c2c42cf-0f57-46b8-85ba-1e7f4a6db51e</testCaseGuid>
+</TestCaseEntity>

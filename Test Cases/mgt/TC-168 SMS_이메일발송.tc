@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-168 SMS_이메일발송</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1de6267-7c93-4948-8134-26f7a08530c4</testCaseGuid>
+</TestCaseEntity>

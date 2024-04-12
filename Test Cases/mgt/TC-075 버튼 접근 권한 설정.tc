@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-075 버튼 접근 권한 설정</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c9df111-5bea-40f3-9bee-44af716a1a03</testCaseGuid>
+</TestCaseEntity>

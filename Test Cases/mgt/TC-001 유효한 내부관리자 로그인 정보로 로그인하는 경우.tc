@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-001 유효한 내부관리자 로그인 정보로 로그인하는 경우</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa17fe32-aa24-4111-8751-9f7ad6fbcba6</testCaseGuid>
+</TestCaseEntity>

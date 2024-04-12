@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-042 기업관리자로 로그인하여 면접도구 등록</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cc855db-d623-4e49-abcc-9cd5586e1a16</testCaseGuid>
+</TestCaseEntity>

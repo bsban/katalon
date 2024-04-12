@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-024 공고목록확인(내부,외부관리자)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25b2a895-3222-464b-ba82-0de4d52f4056</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-015-01 기업등록(내부관리자, 슈퍼관리자)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f9d2bed-772c-468f-a82d-212e5ddf4ea8</testCaseGuid>
+</TestCaseEntity>

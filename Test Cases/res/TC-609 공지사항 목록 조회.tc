@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-609 공지사항 목록 조회</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>682a38fe-cea8-4a7b-9d47-8e0a8055b0ba</testCaseGuid>
+</TestCaseEntity>

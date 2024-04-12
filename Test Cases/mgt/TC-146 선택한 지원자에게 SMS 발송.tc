@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-146 선택한 지원자에게 SMS 발송</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>223261fd-4be9-4456-855f-d44468cb3b22</testCaseGuid>
+</TestCaseEntity>

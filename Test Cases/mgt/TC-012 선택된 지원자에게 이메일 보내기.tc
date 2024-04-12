@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-012 선택된 지원자에게 이메일 보내기</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef23716d-01f0-427f-a404-d7f0575a565a</testCaseGuid>
+</TestCaseEntity>

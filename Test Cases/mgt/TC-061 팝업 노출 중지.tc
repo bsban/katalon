@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-061 팝업 노출 중지</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db69bed4-016d-4c62-8f05-81ef1217ccf4</testCaseGuid>
+</TestCaseEntity>

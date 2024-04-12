@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-171 지원자 삭제</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5c53e9b-20f4-4bcf-87e8-1df1f09ac910</testCaseGuid>
+</TestCaseEntity>

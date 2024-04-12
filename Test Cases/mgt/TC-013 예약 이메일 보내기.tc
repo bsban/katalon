@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-013 예약 이메일 보내기</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af9a7c1c-f164-4a81-982d-517e5b64507c</testCaseGuid>
+</TestCaseEntity>

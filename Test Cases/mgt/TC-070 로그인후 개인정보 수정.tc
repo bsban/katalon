@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-070 로그인후 개인정보 수정</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc3beb02-c3b8-47c0-a43e-a25b5b254d7d</testCaseGuid>
+</TestCaseEntity>

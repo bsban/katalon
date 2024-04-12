@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-068 기업관리자로 로그인하여 기업관리자 등록</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d207fe47-175a-423a-ad7d-d980b5739d5d</testCaseGuid>
+</TestCaseEntity>

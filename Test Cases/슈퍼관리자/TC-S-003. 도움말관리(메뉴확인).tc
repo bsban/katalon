@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>슈퍼관리자로 로그인하여 도움말 설정 기능 확인</description>
-   <name>TC-S-003. 도움말관리(메뉴확인)</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>67e2c4f0-aefc-41ec-b0d2-45178ce682ed</testCaseGuid>
-</TestCaseEntity>

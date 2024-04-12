@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-011 예약된 SMS 보내기</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e41a6fc-5605-4f91-9530-567de1714e67</testCaseGuid>
+</TestCaseEntity>

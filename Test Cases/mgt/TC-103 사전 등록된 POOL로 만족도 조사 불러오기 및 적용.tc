@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-103 사전 등록된 POOL로 만족도 조사 불러오기 및 적용</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5f75972-cea3-4801-81ae-cb0769ae80f2</testCaseGuid>
+</TestCaseEntity>

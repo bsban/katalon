@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>잘못된 아이디 또는 비밀번호로 로그인시 로그인 실패 확인</description>
-   <name>TC-M-002-로그인실패</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>3753114d-939c-40c1-b88c-2abf0ed6277f</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-608 1대1 문의 답변 확인</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90c268cd-9091-4336-b0c0-fc592185729d</testCaseGuid>
+</TestCaseEntity>
