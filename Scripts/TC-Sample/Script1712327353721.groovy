@@ -17,25 +17,27 @@ import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.driver
 
-String listText
+WebUI.openBrowser('')
 
-String titleText
+WebUI.navigateToUrl('http://testhost.wiselection.com/')
 
-WebUI.callTestCase(findTestCase('mgt/TC-003 유효한 기업관리자 로그인 정보로 로그인하는 경우'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.mouseOver(findTestObject('Object Repository/Page__2_/a_'))
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Object Repository/Page__2_/a_FAQ'))
 
-WebUI.click(findTestObject('Object Repository/1대1문의/span_'))
+WebUI.click(findTestObject('Object Repository/Page__2_/a__1'))
 
-WebUI.click(findTestObject('Object Repository/1대1문의/a_'))
+WebUI.click(findTestObject('Object Repository/Page__2_/a__1_2'))
 
-WebUI.click(findTestObject('Object Repository/1대1문의/button_11'))
+WebUI.click(findTestObject('Object Repository/Page__2_/a__1_2_3'))
 
-//WebUI.verifyElementText(findTestObject('Object Repository/Page_- WISE SELECTION/a__1'), '내용테스트입니다')
-listText = WebUI.getText(findTestObject('Object Repository/1대1문의/a__1'))
+WebUI.click(findTestObject('Object Repository/Page__2_/a__1_2_3_4'))
 
-WebUI.click(findTestObject('Object Repository/1대1문의/a__1'))
+WebUI.click(findTestObject('Object Repository/Page__2_/a__1_2_3_4_5'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/1대1문의/h3_'), listText)
+WebUI.click(findTestObject('Object Repository/Page__2_/a__1'))
+
+WebUI.click(findTestObject('Object Repository/Page__2_/strong_'))
 

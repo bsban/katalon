@@ -20,11 +20,11 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('mgt/TC-004 만료된 계약이 있는 경우(기업관리자)'), [:], FailureHandling.STOP_ON_FAILURE)
 
 '시스템관리 메뉴 클릭\r\n'
-WebUI.click(findTestObject('Object Repository/도움말관리페이지/span_'))
+WebUI.click(findTestObject('Object Repository/Mangement/도움말관리페이지/span_'))
 
 '도움말관리 메뉴 클릭\r\n'
-WebUI.click(findTestObject('Object Repository/도움말관리페이지/a_'))
+WebUI.click(findTestObject('Object Repository/Mangement/도움말관리페이지/a_'))
 
 '페이지 타이틀 = "도움말 관리"'
-WebUI.verifyElementText(findTestObject('Object Repository/도움말관리페이지/h3_'), '도움말 관리')
+WebUI.verifyElementText(findTestObject('Object Repository/Mangement/도움말관리페이지/h3_'), '도움말 관리')
 

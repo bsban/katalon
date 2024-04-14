@@ -24,16 +24,16 @@ WebUI.callTestCase(findTestCase('mgt/TC-003 유효한 기업관리자 로그인 
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/1대1문의/span_'))
+WebUI.click(findTestObject('Object Repository/Mangement/1대1문의/span_'))
 
-WebUI.click(findTestObject('Object Repository/1대1문의/a_'))
+WebUI.click(findTestObject('Object Repository/Mangement/1대1문의/a_'))
 
-WebUI.click(findTestObject('Object Repository/1대1문의/button_11'))
+WebUI.click(findTestObject('Object Repository/Mangement/1대1문의/button_11'))
 
-//WebUI.verifyElementText(findTestObject('Object Repository/Page_- WISE SELECTION/a__1'), '내용테스트입니다')
-String listText = WebUI.getText(findTestObject('Object Repository/1대1문의/a__1'))
+//WebUI.verifyElementText(findTestObject('Object Repository/Mangement/Page_- WISE SELECTION/a__1'), '내용테스트입니다')
+String listText = WebUI.getText(findTestObject('Object Repository/Mangement/1대1문의/a__1'))
 
-WebUI.click(findTestObject('Object Repository/1대1문의/a__1'))
+WebUI.click(findTestObject('Object Repository/Mangement/1대1문의/a__1'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/1대1문의/h3_'), listText)
+WebUI.verifyElementText(findTestObject('Object Repository/Mangement/1대1문의/h3_'), listText)
 

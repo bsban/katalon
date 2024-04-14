@@ -21,15 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://mgt.wiselection.com/login.do')
 
-WebUI.setText(findTestObject('Object Repository/로그인페이지/input__userId'), 'mgt1125')
+WebUI.setText(findTestObject('Object Repository/Mangement/로그인페이지/input__userId'), 'mgt1125')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/로그인페이지/input__pw'), '4nvbrPglk7k=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Mangement/로그인페이지/input__pw'), '4nvbrPglk7k=')
 
-WebUI.click(findTestObject('Object Repository/로그인페이지/button_'))
+WebUI.click(findTestObject('Object Repository/Mangement/로그인페이지/button_'))
 
-WebUI.click(findTestObject('Object Repository/공지사항조회페이지/span_0'))
+WebUI.click(findTestObject('Object Repository/Mangement/공지사항조회페이지/span_0'))
 
-WebUI.click(findTestObject('Object Repository/공지사항조회페이지/span_0_1'))
+WebUI.click(findTestObject('Object Repository/Mangement/공지사항조회페이지/span_0_1'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/공지사항조회페이지/h3_'), '공지사항')
+WebUI.verifyElementText(findTestObject('Object Repository/Mangement/공지사항조회페이지/h3_'), '공지사항')
 

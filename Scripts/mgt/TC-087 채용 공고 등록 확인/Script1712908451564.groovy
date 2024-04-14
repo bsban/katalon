@@ -38,50 +38,50 @@ def clickUsingJS(TestObject to, int timeout)
 
 WebUI.callTestCase(findTestCase('mgt/TC-003 유효한 기업관리자 로그인 정보로 로그인하는 경우'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/span_'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/span_'))
 
-WebUI.setText(findTestObject('Object Repository/채용등록페이지/input__WAP-EMPL-0010-RecruitNoticNm'), '2024하반기 신입사원 모집')
+WebUI.setText(findTestObject('Object Repository/Mangement/채용등록페이지/input__WAP-EMPL-0010-RecruitNoticNm'), '2024하반기 신입사원 모집')
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/input__WAP-EMPL-0010-RecruitNoticNm'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/input__WAP-EMPL-0010-RecruitNoticNm'))
 
-WebUI.setText(findTestObject('Object Repository/채용등록페이지/input__departmentName'), '사무직')
+WebUI.setText(findTestObject('Object Repository/Mangement/채용등록페이지/input__departmentName'), '사무직')
 
-WebUI.sendKeys(findTestObject('Object Repository/채용등록페이지/input__departmentName'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Mangement/채용등록페이지/input__departmentName'), Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/채용등록페이지/input__departmentName'), '기술직')
+WebUI.setText(findTestObject('Object Repository/Mangement/채용등록페이지/input__departmentName'), '기술직')
 
-WebUI.sendKeys(findTestObject('Object Repository/채용등록페이지/input__departmentName'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Mangement/채용등록페이지/input__departmentName'), Keys.chord(Keys.ENTER))
 
-clickUsingJS(findTestObject('채용등록페이지/button_'),10)
-//WebUI.click(findTestObject('채용등록페이지/button_'))
+clickUsingJS(findTestObject('Mangement/채용등록페이지/button_'),10)
+//WebUI.click(findTestObject('Mangement/채용등록페이지/button_'))
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/button__1'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/button__1'))
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/span__1_2'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/span__1_2'))
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/span__1_2_3'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/span__1_2_3'))
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/input__calendar1_1'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/input__calendar1_1'))
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/span_4'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/span_4'))
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/input__calendar1_2'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/input__calendar1_2'))
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/span_30'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/span_30'))
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/button__1_2'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/button__1_2'))
 
-WebUI.setText(findTestObject('Object Repository/채용등록페이지/body_concat(html1bodyclass, , tx-content-container, , )_tx-content-container'), 
+WebUI.setText(findTestObject('Object Repository/Mangement/채용등록페이지/body_concat(html1bodyclass, , tx-content-container, , )_tx-content-container'), 
     '개인정보 수집 및 이용수칙1 약관내용 입니다.<div style=""><br></div><div><p style="">1. 총칙</p><p style="">2. 용어정의</p><p style="">3. 회사의책</p><p style=""><br></p></div><p><br></p>')
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/button__1_2_3'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/button__1_2_3'))
 
-WebUI.setText(findTestObject('Object Repository/채용등록페이지/body_concat(html1bodyclass, , tx-content-container, , )_tx-content-container'), 
+WebUI.setText(findTestObject('Object Repository/Mangement/채용등록페이지/body_concat(html1bodyclass, , tx-content-container, , )_tx-content-container'), 
     '개인정보 수집 및 이용수칙1 약관내용 입니다.<div style=""><br></div><div><p style="">1. 총칙</p><p style="">2. 용어정의</p><p style="">3. 회사의책임</p><p style=""><br></p><div id="katalon" style="top: 0px;"><div id="katalon-rec_elementInfoDiv" style="display: block;">/html[1]/body[@class="tx-content-container"]</div></div></div><p><br></p>')
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/button__1_2_3_4'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/button__1_2_3_4'))
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/button__1_2_3_4_5'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/button__1_2_3_4_5'))
 
-WebUI.click(findTestObject('Object Repository/채용등록페이지/button__1_2_3_4'))
+WebUI.click(findTestObject('Object Repository/Mangement/채용등록페이지/button__1_2_3_4'))
 

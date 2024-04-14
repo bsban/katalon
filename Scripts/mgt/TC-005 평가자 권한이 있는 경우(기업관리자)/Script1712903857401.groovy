@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://mgt.wiselection.com/login.do')
 
-WebUI.setText(findTestObject('Object Repository/로그인페이지/input__userId'), 'root')
+WebUI.setText(findTestObject('Object Repository/Mangement/로그인페이지/input__userId'), 'root')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/로그인페이지/input__pw'), '4nvbrPglk7k=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Mangement/로그인페이지/input__pw'), '4nvbrPglk7k=')
 
-WebUI.click(findTestObject('Object Repository/로그인페이지/button_'))
+WebUI.click(findTestObject('Object Repository/Mangement/로그인페이지/button_'))
 

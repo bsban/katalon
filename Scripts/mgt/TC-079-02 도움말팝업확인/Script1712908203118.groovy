@@ -22,9 +22,9 @@ WebUI.callTestCase(findTestCase('mgt/TC-004 만료된 계약이 있는 경우(�
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/1대1문의/button_'))
+WebUI.click(findTestObject('Object Repository/Mangement/1대1문의/button_'))
 
 WebUI.switchToWindowTitle('도움말')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Top메뉴/p_'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Mangement/Page_Top메뉴/p_'), 0)
 

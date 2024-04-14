@@ -27,16 +27,16 @@ WebUI.callTestCase(findTestCase('mgt/TC-003 유효한 기업관리자 로그인 
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/기업정보페이지/span_기업정보 메뉴(2레벨)'))
+WebUI.click(findTestObject('Object Repository/Mangement/기업정보페이지/span_기업정보 메뉴(2레벨)'))
 
-WebUI.click(findTestObject('Object Repository/기업정보페이지/a_기업정보메뉴'))
+WebUI.click(findTestObject('Object Repository/Mangement/기업정보페이지/a_기업정보메뉴'))
 
-companyNameFirst = WebUI.getText(findTestObject('기업정보페이지/span__2기업정보화면-기업명'))
+companyNameFirst = WebUI.getText(findTestObject('Mangement/기업정보페이지/span__2기업정보화면-기업명'))
 
-WebUI.click(findTestObject('Object Repository/기업정보페이지/b_수정버튼'))
+WebUI.click(findTestObject('Object Repository/Mangement/기업정보페이지/b_수정버튼'))
 
-//WebUI.click(findTestObject('Object Repository/기업정보페이지/input__companyNm'))
-companyNameSecond = WebUI.getText(findTestObject('Object Repository/기업정보페이지/input__companyNm'))
+//WebUI.click(findTestObject('Object Repository/Mangement/기업정보페이지/input__companyNm'))
+companyNameSecond = WebUI.getText(findTestObject('Object Repository/Mangement/기업정보페이지/input__companyNm'))
 
 if (companyNameFirst.equals(companyNameSecond)) {
     KeywordUtil.markPassed('ok!')

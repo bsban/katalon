@@ -17,3 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://testhost.wiselection.com/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Object Repository/RecruitHome/RecruitNotice_공고목록/a_'))
+
+WebUI.click(findTestObject('Object Repository/RecruitHome/RecruitNotice_공고목록/a__1'))
+
+String titleText = WebUI.getText(findTestObject('RecruitHome/RecruitNotice_공고목록/strong_'))
+
+WebUI.click(findTestObject('Object Repository/RecruitHome/RecruitNotice_공고목록/strong_'))
+
+WebUI.verifyElementText(findTestObject('RecruitHome/RecruitNotice_공고목록/strong_ detail Page'), titleText)
+
+WebUI.verifyElementText(findTestObject('Object Repository/RecruitHome/RecruitNotice_공고목록/h3_'), '채용분야')
+

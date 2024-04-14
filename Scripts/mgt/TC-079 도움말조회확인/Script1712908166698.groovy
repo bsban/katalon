@@ -26,19 +26,19 @@ WebUI.callTestCase(findTestCase('mgt/TC-004 만료된 계약이 있는 경우(�
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/도움말관리페이지/span_'))
+WebUI.click(findTestObject('Object Repository/Mangement/도움말관리페이지/span_'))
 
-WebUI.click(findTestObject('Object Repository/도움말관리페이지/a_'))
+WebUI.click(findTestObject('Object Repository/Mangement/도움말관리페이지/a_'))
 
-WebUI.click(findTestObject('Object Repository/도움말관리페이지/span__treeDemo_1_switch'))
+WebUI.click(findTestObject('Object Repository/Mangement/도움말관리페이지/span__treeDemo_1_switch'))
 
-WebUI.click(findTestObject('Object Repository/도움말관리페이지/span__1'))
+WebUI.click(findTestObject('Object Repository/Mangement/도움말관리페이지/span__1'))
 
-originText = WebUI.getText(findTestObject('Object Repository/도움말관리페이지/span__1'))
+originText = WebUI.getText(findTestObject('Object Repository/Mangement/도움말관리페이지/span__1'))
 
-WebUI.click(findTestObject('Object Repository/도움말관리페이지/span__1'))
+WebUI.click(findTestObject('Object Repository/Mangement/도움말관리페이지/span__1'))
 
-dataText = WebUI.getText(findTestObject('Object Repository/도움말관리페이지/div_'))
+dataText = WebUI.getText(findTestObject('Object Repository/Mangement/도움말관리페이지/div_'))
 
 if (dataText.equals(originText)) {
     KeywordUtil.markPassed('ok!')

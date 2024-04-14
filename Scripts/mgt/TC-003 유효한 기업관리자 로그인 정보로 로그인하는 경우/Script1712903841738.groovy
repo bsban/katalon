@@ -21,12 +21,12 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://mgt.wiselection.com/login.do')
 
-WebUI.setText(findTestObject('Object Repository/로그인페이지/input__userId'), 'mgt1125')
+WebUI.setText(findTestObject('Object Repository/Mangement/로그인페이지/input__userId'), 'mgt1125')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/로그인페이지/input__pw'), '4nvbrPglk7k=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Mangement/로그인페이지/input__pw'), '4nvbrPglk7k=')
 
-WebUI.click(findTestObject('Object Repository/로그인페이지/button_'))
+WebUI.click(findTestObject('Object Repository/Mangement/로그인페이지/button_'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/기업페이지 메뉴/span_'), '기업정보')
+WebUI.verifyElementText(findTestObject('Object Repository/Mangement/기업페이지 메뉴/span_'), '기업정보')
 
-WebUI.verifyElementText(findTestObject('Object Repository/기업홈_대시보드/span_'), '진행중인 채용')
+WebUI.verifyElementText(findTestObject('Object Repository/Mangement/기업홈_대시보드/span_'), '진행중인 채용')

@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://mgt.wiselection.com/login.do')
 
-WebUI.setText(findTestObject('Object Repository/로그인실패페이지/input__userId'), 'mgt1125')
+WebUI.setText(findTestObject('Object Repository/Mangement/로그인실패페이지/input__userId'), 'mgt1125')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/로그인실패페이지/input__pw'), 'hsPFm2cfhkw=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Mangement/로그인실패페이지/input__pw'), 'hsPFm2cfhkw=')
 
-WebUI.click(findTestObject('Object Repository/로그인실패페이지/button_'))
+WebUI.click(findTestObject('Object Repository/Mangement/로그인실패페이지/button_'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/로그인실패페이지/p_'), '아이디 또는 비밀번호가 맞지 않습니다. 다시 확인해 주세요.')
+WebUI.verifyElementText(findTestObject('Object Repository/Mangement/로그인실패페이지/p_'), '아이디 또는 비밀번호가 맞지 않습니다. 다시 확인해 주세요.')
 

@@ -21,16 +21,16 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://mgt.wiselection.com/login.do')
 
-WebUI.setText(findTestObject('Object Repository/로그인페이지/input__userId'), 'bsban')
+WebUI.setText(findTestObject('Object Repository/Mangement/로그인페이지/input__userId'), 'bsban')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/로그인페이지/input__pw'), '0N+/9BdCbC1lxno8MXOsSQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Mangement/로그인페이지/input__pw'), '0N+/9BdCbC1lxno8MXOsSQ==')
 
-WebUI.click(findTestObject('Object Repository/로그인페이지/button_'))
+WebUI.click(findTestObject('Object Repository/Mangement/로그인페이지/button_'))
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/슈퍼관리자메뉴/span_'))
+WebUI.click(findTestObject('Object Repository/Mangement/슈퍼관리자메뉴/span_'))
 
-//WebUI.verifyElementText(findTestObject('Object Repository/슈퍼관리자메뉴/a_'), '권한관리')
+//WebUI.verifyElementText(findTestObject('Object Repository/Mangement/슈퍼관리자메뉴/a_'), '권한관리')
 WebUI.verifyTextNotPresent('권한관리', false)
 

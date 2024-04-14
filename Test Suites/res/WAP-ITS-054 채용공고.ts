@@ -19,7 +19,7 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7f41f226-fa7c-48df-986c-0be4f298aa15</guid>
+      <guid>921fd589-4d9d-4564-8cbd-663eaf8d9d12</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/res/TC-604 공고상세조회</testCaseId>

@@ -17,3 +17,32 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://testhost.wiselection.com/')
+
+WebUI.click(findTestObject('Object Repository/RecruitHome/Page__2_/a_'))
+
+WebUI.click(findTestObject('Object Repository/RecruitHome/Page__2_/a_FAQ'))
+
+'전체 탭\r\n'
+WebUI.click(findTestObject('Object Repository/RecruitHome/Page__2_/a__1'))
+
+'서류전형탭'
+WebUI.click(findTestObject('Object Repository/RecruitHome/Page__2_/a__1_2'))
+
+'필기전형탭'
+WebUI.click(findTestObject('Object Repository/RecruitHome/Page__2_/a__1_2_3'))
+
+'면접전형탭'
+WebUI.click(findTestObject('Object Repository/RecruitHome/Page__2_/a__1_2_3_4'))
+
+'기타탭'
+WebUI.click(findTestObject('Object Repository/RecruitHome/Page__2_/a__1_2_3_4_5'))
+
+'FAQ 제목\r\n'
+WebUI.click(findTestObject('Object Repository/RecruitHome/Page__2_/strong_'))
+
+'답변'
+WebUI.verifyElementVisible(findTestObject('Object Repository/RecruitHome/Page__2_/div_A'))
+
